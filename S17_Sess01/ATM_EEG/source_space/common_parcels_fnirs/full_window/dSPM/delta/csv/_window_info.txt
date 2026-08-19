@@ -1,0 +1,87 @@
+S17 Sess01  |  Band: delta (1-4 Hz)  |  Window: FULL WINDOW  |  Common parcels with fNIRS
+Generated for by-hand recomputation double-checks. Times are seconds; 'absolute' = position in the continuous recording, 'relative' = position relative to the condition trigger.
+----------------------------------------------------------------------
+MOTOR_EXECUTION=LEFT: relative window [-2.000s -> 15.001s] (17.00s), n_trials=22
+    trial 1: absolute window [24.008s -> 41.008s], trigger t0=26.008s
+    trial 2: absolute window [44.857s -> 61.858s], trigger t0=46.857s
+    trial 3: absolute window [87.539s -> 104.540s], trigger t0=89.539s
+    trial 4: absolute window [98.211s -> 115.212s], trigger t0=100.211s
+    trial 5: absolute window [108.878s -> 125.879s], trigger t0=110.878s
+    trial 6: absolute window [130.228s -> 147.228s], trigger t0=132.227s
+    trial 7: absolute window [140.894s -> 157.895s], trigger t0=142.894s
+    trial 8: absolute window [172.907s -> 189.907s], trigger t0=174.907s
+    trial 9: absolute window [183.584s -> 200.584s], trigger t0=185.583s
+    trial 10: absolute window [204.924s -> 221.925s], trigger t0=206.924s
+    trial 11: absolute window [215.591s -> 232.592s], trigger t0=217.591s
+    trial 12: absolute window [236.935s -> 253.936s], trigger t0=238.935s
+    trial 13: absolute window [258.271s -> 275.272s], trigger t0=260.271s
+    trial 14: absolute window [290.275s -> 307.276s], trigger t0=292.275s
+    trial 15: absolute window [300.953s -> 317.954s], trigger t0=302.953s
+    trial 16: absolute window [322.294s -> 339.295s], trigger t0=324.294s
+    trial 17: absolute window [332.964s -> 349.964s], trigger t0=334.964s
+    trial 18: absolute window [343.641s -> 360.642s], trigger t0=345.641s
+    trial 19: absolute window [364.978s -> 381.979s], trigger t0=366.978s
+    trial 20: absolute window [396.994s -> 413.995s], trigger t0=398.994s
+    trial 21: absolute window [407.672s -> 424.673s], trigger t0=409.672s
+    trial 22: absolute window [418.347s -> 435.348s], trigger t0=420.347s
+MOTOR_EXECUTION=RIGHT: relative window [-2.000s -> 15.001s] (17.00s), n_trials=18
+    trial 1: absolute window [34.186s -> 51.187s], trigger t0=36.186s
+    trial 2: absolute window [55.523s -> 72.524s], trigger t0=57.523s
+    trial 3: absolute window [66.195s -> 83.195s], trigger t0=68.195s
+    trial 4: absolute window [76.862s -> 93.862s], trigger t0=78.862s
+    trial 5: absolute window [119.550s -> 136.550s], trigger t0=121.550s
+    trial 6: absolute window [151.571s -> 168.572s], trigger t0=153.571s
+    trial 7: absolute window [162.238s -> 179.239s], trigger t0=164.238s
+    trial 8: absolute window [194.244s -> 211.245s], trigger t0=196.244s
+    trial 9: absolute window [226.262s -> 243.262s], trigger t0=228.262s
+    trial 10: absolute window [247.603s -> 264.604s], trigger t0=249.603s
+    trial 11: absolute window [268.940s -> 285.941s], trigger t0=270.940s
+    trial 12: absolute window [279.608s -> 296.608s], trigger t0=281.608s
+    trial 13: absolute window [311.620s -> 328.621s], trigger t0=313.620s
+    trial 14: absolute window [354.308s -> 371.309s], trigger t0=356.308s
+    trial 15: absolute window [375.654s -> 392.655s], trigger t0=377.654s
+    trial 16: absolute window [386.328s -> 403.328s], trigger t0=388.328s
+    trial 17: absolute window [429.017s -> 446.018s], trigger t0=431.017s
+    trial 18: absolute window [439.681s -> 456.681s], trigger t0=441.681s
+MOTOR_IMAGERY=LEFT: relative window [-2.000s -> 15.001s] (17.00s), n_trials=22
+    trial 23: absolute window [19.000s -> 36.000s], trigger t0=21.000s
+    trial 24: absolute window [39.850s -> 56.851s], trigger t0=41.850s
+    trial 25: absolute window [82.532s -> 99.533s], trigger t0=84.532s
+    trial 26: absolute window [93.206s -> 110.207s], trigger t0=95.206s
+    trial 27: absolute window [103.876s -> 120.877s], trigger t0=105.876s
+    trial 28: absolute window [125.221s -> 142.221s], trigger t0=127.221s
+    trial 29: absolute window [135.893s -> 152.894s], trigger t0=137.893s
+    trial 30: absolute window [167.902s -> 184.902s], trigger t0=169.902s
+    trial 31: absolute window [178.577s -> 195.577s], trigger t0=180.577s
+    trial 32: absolute window [199.916s -> 216.917s], trigger t0=201.916s
+    trial 33: absolute window [210.586s -> 227.587s], trigger t0=212.586s
+    trial 34: absolute window [231.929s -> 248.929s], trigger t0=233.929s
+    trial 35: absolute window [253.266s -> 270.267s], trigger t0=255.266s
+    trial 36: absolute window [285.274s -> 302.274s], trigger t0=287.274s
+    trial 37: absolute window [295.945s -> 312.946s], trigger t0=297.945s
+    trial 38: absolute window [317.293s -> 334.294s], trigger t0=319.293s
+    trial 39: absolute window [327.961s -> 344.961s], trigger t0=329.961s
+    trial 40: absolute window [338.634s -> 355.634s], trigger t0=340.634s
+    trial 41: absolute window [359.977s -> 376.978s], trigger t0=361.977s
+    trial 42: absolute window [391.992s -> 408.992s], trigger t0=393.992s
+    trial 43: absolute window [402.665s -> 419.666s], trigger t0=404.665s
+    trial 44: absolute window [413.339s -> 430.340s], trigger t0=415.339s
+MOTOR_IMAGERY=RIGHT: relative window [-2.000s -> 15.001s] (17.00s), n_trials=18
+    trial 19: absolute window [29.183s -> 46.184s], trigger t0=31.183s
+    trial 20: absolute window [50.520s -> 67.521s], trigger t0=52.520s
+    trial 21: absolute window [61.190s -> 78.191s], trigger t0=63.190s
+    trial 22: absolute window [71.859s -> 88.859s], trigger t0=73.859s
+    trial 23: absolute window [114.546s -> 131.546s], trigger t0=116.546s
+    trial 24: absolute window [146.563s -> 163.564s], trigger t0=148.563s
+    trial 25: absolute window [157.230s -> 174.231s], trigger t0=159.230s
+    trial 26: absolute window [189.244s -> 206.245s], trigger t0=191.244s
+    trial 27: absolute window [221.255s -> 238.255s], trigger t0=223.255s
+    trial 28: absolute window [242.596s -> 259.597s], trigger t0=244.596s
+    trial 29: absolute window [263.933s -> 280.934s], trigger t0=265.933s
+    trial 30: absolute window [274.605s -> 291.605s], trigger t0=276.605s
+    trial 31: absolute window [306.618s -> 323.619s], trigger t0=308.618s
+    trial 32: absolute window [349.304s -> 366.305s], trigger t0=351.304s
+    trial 33: absolute window [370.649s -> 387.650s], trigger t0=372.649s
+    trial 34: absolute window [381.321s -> 398.321s], trigger t0=383.321s
+    trial 35: absolute window [424.010s -> 441.011s], trigger t0=426.010s
+    trial 36: absolute window [434.679s -> 451.679s], trigger t0=436.679s

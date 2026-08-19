@@ -1,0 +1,9 @@
+,bankssts-lh,bankssts-rh,fusiform-lh,inferiortemporal-lh,insula-rh,isthmuscingulate-rh,lingual-lh,parahippocampal-lh
+bankssts-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bankssts-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+fusiform-lh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+inferiortemporal-lh,0.0,0.0,0.0,0.625,0.0,0.0,0.0,0.375
+insula-rh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+isthmuscingulate-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lingual-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-lh,0.0,0.0,0.0,0.47058823529411764,0.0,0.0,0.0,0.5294117647058824
