@@ -1,0 +1,9 @@
+,entorhinal-lh,entorhinal-rh,fusiform-lh,insula-lh,parsopercularis-lh,temporalpole-lh,temporalpole-rh,transversetemporal-lh
+entorhinal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+entorhinal-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+fusiform-lh,0.0,0.0,0.5405405405405406,0.0,0.0,0.0,0.0,0.4594594594594595
+insula-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parsopercularis-lh,0.0,0.0,0.0,0.0,0.5645161290322581,0.20967741935483872,0.22580645161290322,0.0
+temporalpole-lh,0.0,0.0,0.0,0.0,0.275,0.35,0.375,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.2727272727272727,0.3409090909090909,0.38636363636363635,0.0
+transversetemporal-lh,0.0,0.0,0.4838709677419355,0.0,0.0,0.0,0.0,0.5161290322580645
