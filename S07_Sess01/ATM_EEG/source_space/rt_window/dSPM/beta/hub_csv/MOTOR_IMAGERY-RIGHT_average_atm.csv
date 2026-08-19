@@ -1,0 +1,9 @@
+,cuneus-lh,frontalpole-rh,isthmuscingulate-lh,isthmuscingulate-rh,parstriangularis-lh,pericalcarine-lh,rostralanteriorcingulate-lh,temporalpole-lh
+cuneus-lh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+isthmuscingulate-lh,0.0,0.0,0.6666666666666666,0.0,0.3333333333333333,0.0,0.0,0.0
+isthmuscingulate-rh,0.0,0.0,0.0,0.4230769230769231,0.11538461538461539,0.19230769230769232,0.0,0.2692307692307692
+parstriangularis-lh,0.0,0.0,0.10344827586206896,0.1724137931034483,0.5517241379310345,0.0,0.0,0.1724137931034483
+pericalcarine-lh,0.0,0.0,0.0,0.25,0.0,0.75,0.0,0.0
+rostralanteriorcingulate-lh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+temporalpole-lh,0.0,0.0,0.0,0.28,0.16,0.0,0.0,0.56
