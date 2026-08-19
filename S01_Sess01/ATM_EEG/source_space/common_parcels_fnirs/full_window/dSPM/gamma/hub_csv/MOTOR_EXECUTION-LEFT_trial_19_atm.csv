@@ -1,0 +1,9 @@
+,cuneus-rh,entorhinal-lh,frontalpole-lh,frontalpole-rh,inferiortemporal-lh,parsorbitalis-lh,parsorbitalis-rh,temporalpole-lh
+cuneus-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+entorhinal-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+inferiortemporal-lh,0.0,0.125,0.0,0.0,0.875,0.0,0.0,0.0
+parsorbitalis-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parsorbitalis-rh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+temporalpole-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
