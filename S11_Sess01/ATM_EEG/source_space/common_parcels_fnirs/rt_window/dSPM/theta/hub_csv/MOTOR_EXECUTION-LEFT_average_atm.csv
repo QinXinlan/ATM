@@ -1,0 +1,9 @@
+,cuneus-lh,frontalpole-rh,fusiform-lh,inferiortemporal-lh,isthmuscingulate-rh,lingual-lh,parahippocampal-lh,pericalcarine-lh
+cuneus-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+fusiform-lh,0.0,0.0,0.32142857142857145,0.30357142857142855,0.0,0.03571428571428571,0.3392857142857143,0.0
+inferiortemporal-lh,0.0,0.0,0.30612244897959184,0.3673469387755102,0.0,0.0,0.32653061224489793,0.0
+isthmuscingulate-rh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+lingual-lh,0.0,0.0,0.125,0.03125,0.0,0.65625,0.1875,0.0
+parahippocampal-lh,0.0,0.0,0.3064516129032258,0.2903225806451613,0.0,0.06451612903225806,0.3387096774193548,0.0
+pericalcarine-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
