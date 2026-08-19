@@ -1,0 +1,9 @@
+,bankssts-rh,frontalpole-lh,paracentral-rh,parsorbitalis-lh,rostralanteriorcingulate-rh,temporalpole-lh,temporalpole-rh,transversetemporal-rh
+bankssts-rh,0.8378378378378378,0.0,0.0,0.0,0.0,0.07207207207207207,0.09009009009009009,0.0
+frontalpole-lh,0.0,0.8309859154929577,0.0,0.0,0.0,0.0,0.16901408450704225,0.0
+paracentral-rh,0.0,0.0,0.9156626506024096,0.08433734939759036,0.0,0.0,0.0,0.0
+parsorbitalis-lh,0.0,0.0,0.06896551724137931,0.9310344827586207,0.0,0.0,0.0,0.0
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+temporalpole-lh,0.03592814371257485,0.0,0.0,0.0,0.0,0.9640718562874252,0.0,0.0
+temporalpole-rh,0.056818181818181816,0.045454545454545456,0.0,0.0,0.0,0.0,0.8977272727272727,0.0
+transversetemporal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

@@ -1,0 +1,9 @@
+,bankssts-rh,frontalpole-lh,lateraloccipital-lh,paracentral-lh,pericalcarine-lh,temporalpole-lh,temporalpole-rh,transversetemporal-rh
+bankssts-rh,0.7105263157894737,0.2894736842105263,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.17777777777777778,0.762962962962963,0.0,0.0,0.0,0.05925925925925926,0.0,0.0
+lateraloccipital-lh,0.03571428571428571,0.0,0.9642857142857143,0.0,0.0,0.0,0.0,0.0
+paracentral-lh,0.0,0.0,0.0,0.891566265060241,0.0,0.0,0.10843373493975904,0.0
+pericalcarine-lh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+temporalpole-lh,0.0,0.10309278350515463,0.0,0.0,0.0,0.8969072164948454,0.0,0.0
+temporalpole-rh,0.0,0.0,0.0,0.12,0.0,0.0,0.88,0.0
+transversetemporal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.017241379310344827,0.9827586206896551

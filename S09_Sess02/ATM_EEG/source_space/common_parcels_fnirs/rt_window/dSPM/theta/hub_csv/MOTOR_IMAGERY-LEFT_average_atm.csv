@@ -1,0 +1,9 @@
+,bankssts-rh,cuneus-rh,frontalpole-lh,frontalpole-rh,paracentral-lh,temporalpole-lh,temporalpole-rh,transversetemporal-rh
+bankssts-rh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cuneus-rh,0.0,0.6346153846153846,0.0,0.0,0.36538461538461536,0.0,0.0,0.0
+frontalpole-lh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,0.0,0.6990291262135923,0.0,0.0,0.2621359223300971,0.038834951456310676
+paracentral-lh,0.0,0.2537313432835821,0.0,0.0,0.746268656716418,0.0,0.0,0.0
+temporalpole-lh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+temporalpole-rh,0.0,0.0,0.0,0.28703703703703703,0.0,0.0,0.7129629629629629,0.0
+transversetemporal-rh,0.0,0.0,0.0,0.046511627906976744,0.0,0.0,0.0,0.9534883720930233
