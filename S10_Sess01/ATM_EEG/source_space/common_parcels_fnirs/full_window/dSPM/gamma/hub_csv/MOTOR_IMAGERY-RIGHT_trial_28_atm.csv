@@ -1,0 +1,9 @@
+,bankssts-lh,frontalpole-lh,frontalpole-rh,fusiform-lh,middletemporal-lh,parahippocampal-lh,pericalcarine-lh,temporalpole-rh
+bankssts-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+fusiform-lh,0.0,0.0,0.0,0.3333333333333333,0.0,0.5,0.0,0.16666666666666666
+middletemporal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-lh,0.0,0.0,0.0,0.04878048780487805,0.0,0.7560975609756098,0.07317073170731707,0.12195121951219512
+pericalcarine-lh,0.0,0.0,0.0,0.0,0.0,0.023809523809523808,0.9285714285714286,0.047619047619047616
+temporalpole-rh,0.0,0.0,0.0,0.024390243902439025,0.0,0.08130081300813008,0.0,0.8943089430894309
