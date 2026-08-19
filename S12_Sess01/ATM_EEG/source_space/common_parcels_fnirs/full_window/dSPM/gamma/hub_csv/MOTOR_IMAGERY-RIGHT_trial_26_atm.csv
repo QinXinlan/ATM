@@ -1,0 +1,9 @@
+,frontalpole-lh,frontalpole-rh,fusiform-lh,lingual-lh,parahippocampal-lh,parsorbitalis-lh,rostralanteriorcingulate-rh,temporalpole-rh
+frontalpole-lh,0.6923076923076923,0.3076923076923077,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.1111111111111111,0.7407407407407407,0.14814814814814814,0.0,0.0,0.0,0.0,0.0
+fusiform-lh,0.0,0.19047619047619047,0.8095238095238095,0.0,0.0,0.0,0.0,0.0
+lingual-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-lh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+parsorbitalis-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
