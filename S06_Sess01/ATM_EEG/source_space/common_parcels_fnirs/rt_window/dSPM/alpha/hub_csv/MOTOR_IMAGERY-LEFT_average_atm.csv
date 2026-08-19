@@ -1,0 +1,9 @@
+,cuneus-lh,cuneus-rh,frontalpole-lh,frontalpole-rh,isthmuscingulate-rh,lateraloccipital-rh,lateralorbitofrontal-rh,pericalcarine-rh
+cuneus-lh,0.6666666666666666,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.0
+cuneus-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.04081632653061224,0.0,0.9591836734693877,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+isthmuscingulate-rh,0.0,0.0,0.0,0.0,0.7222222222222222,0.0,0.0,0.2777777777777778
+lateraloccipital-rh,0.23232323232323232,0.0,0.0,0.0,0.0,0.5252525252525253,0.0,0.24242424242424243
+lateralorbitofrontal-rh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+pericalcarine-rh,0.0,0.0,0.0,0.0,0.2696629213483146,0.2247191011235955,0.0,0.5056179775280899
