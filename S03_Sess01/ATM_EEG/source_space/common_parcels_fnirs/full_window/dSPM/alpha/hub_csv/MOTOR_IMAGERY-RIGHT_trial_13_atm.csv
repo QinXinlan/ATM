@@ -1,0 +1,9 @@
+,frontalpole-lh,frontalpole-rh,isthmuscingulate-rh,lateraloccipital-lh,parahippocampal-rh,pericalcarine-lh,temporalpole-lh,temporalpole-rh
+frontalpole-lh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+isthmuscingulate-rh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+lateraloccipital-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+pericalcarine-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+temporalpole-lh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
