@@ -1,0 +1,9 @@
+,postcentral-lh,postcentral-rh,precentral-lh,superiorparietal-lh,superiorparietal-rh,superiortemporal-lh,superiortemporal-rh,supramarginal-rh
+postcentral-lh,0.64,0.0,0.0,0.12,0.0,0.24,0.0,0.0
+postcentral-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+precentral-lh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+superiorparietal-lh,0.038461538461538464,0.0,0.0,0.6153846153846154,0.038461538461538464,0.15384615384615385,0.15384615384615385,0.0
+superiorparietal-rh,0.0,0.0,0.0,0.0,0.6896551724137931,0.0,0.13793103448275862,0.1724137931034483
+superiortemporal-lh,0.22857142857142856,0.0,0.0,0.08571428571428572,0.0,0.6857142857142857,0.0,0.0
+superiortemporal-rh,0.0,0.0,0.0,0.09375,0.21875,0.0,0.375,0.3125
+supramarginal-rh,0.0,0.0,0.0,0.0,0.1875,0.0,0.1875,0.625
