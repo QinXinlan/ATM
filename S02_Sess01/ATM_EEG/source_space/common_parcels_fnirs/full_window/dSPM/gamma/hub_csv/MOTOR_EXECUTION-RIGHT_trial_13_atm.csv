@@ -1,0 +1,9 @@
+,entorhinal-lh,frontalpole-lh,frontalpole-rh,inferiortemporal-lh,inferiortemporal-rh,middletemporal-lh,temporalpole-lh,temporalpole-rh
+entorhinal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+inferiortemporal-lh,0.0,0.0,0.0,0.9259259259259259,0.0,0.0,0.07407407407407407,0.0
+inferiortemporal-rh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+middletemporal-lh,0.0,0.0,0.0,0.0,0.0,0.7407407407407407,0.25925925925925924,0.0
+temporalpole-lh,0.0,0.0,0.0,0.17142857142857143,0.0,0.08571428571428572,0.7428571428571429,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

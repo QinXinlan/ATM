@@ -1,0 +1,9 @@
+,entorhinal-rh,inferiortemporal-rh,parahippocampal-rh,parsopercularis-rh,parsorbitalis-rh,temporalpole-lh,temporalpole-rh,transversetemporal-rh
+entorhinal-rh,0.75,0.25,0.0,0.0,0.0,0.0,0.0,0.0
+inferiortemporal-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parsopercularis-rh,0.0,0.125,0.0,0.875,0.0,0.0,0.0,0.0
+parsorbitalis-rh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+temporalpole-lh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+transversetemporal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
