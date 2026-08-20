@@ -1,0 +1,9 @@
+,bankssts-lh,frontalpole-lh,frontalpole-rh,parahippocampal-rh,parsorbitalis-rh,rostralanteriorcingulate-lh,rostralanteriorcingulate-rh,temporalpole-rh
+bankssts-lh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parsorbitalis-rh,0.0,0.0,0.0,0.0,0.5662650602409639,0.10843373493975904,0.3253012048192771,0.0
+rostralanteriorcingulate-lh,0.0,0.0,0.0,0.0,0.10236220472440945,0.5905511811023622,0.30708661417322836,0.0
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.0,0.2605042016806723,0.29411764705882354,0.44537815126050423,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
