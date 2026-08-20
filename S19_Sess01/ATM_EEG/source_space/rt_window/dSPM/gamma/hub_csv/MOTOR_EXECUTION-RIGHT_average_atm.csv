@@ -1,0 +1,9 @@
+,entorhinal-lh,entorhinal-rh,frontalpole-rh,lingual-lh,middletemporal-rh,parahippocampal-lh,temporalpole-rh,transversetemporal-rh
+entorhinal-lh,0.925,0.0,0.0,0.0,0.0,0.075,0.0,0.0
+entorhinal-rh,0.0,0.5161290322580645,0.08064516129032258,0.0,0.4032258064516129,0.0,0.0,0.0
+frontalpole-rh,0.0,0.15789473684210525,0.7894736842105263,0.0,0.05263157894736842,0.0,0.0,0.0
+lingual-lh,0.0,0.0,0.0,0.71875,0.0,0.28125,0.0,0.0
+middletemporal-rh,0.0,0.38,0.0,0.0,0.62,0.0,0.0,0.0
+parahippocampal-lh,0.0,0.0,0.0,0.40625,0.0,0.59375,0.0,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+transversetemporal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

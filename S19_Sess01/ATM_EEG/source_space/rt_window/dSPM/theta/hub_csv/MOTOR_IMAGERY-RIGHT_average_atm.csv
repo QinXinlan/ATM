@@ -1,0 +1,9 @@
+,bankssts-rh,entorhinal-rh,inferiortemporal-rh,medialorbitofrontal-lh,parahippocampal-lh,parsopercularis-lh,rostralanteriorcingulate-lh,temporalpole-rh
+bankssts-rh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+entorhinal-rh,0.0,0.6133333333333333,0.16,0.0,0.0,0.0,0.22666666666666666,0.0
+inferiortemporal-rh,0.0,0.25,0.75,0.0,0.0,0.0,0.0,0.0
+medialorbitofrontal-lh,0.0,0.0,0.0,0.5409836065573771,0.18032786885245902,0.0,0.0,0.2786885245901639
+parahippocampal-lh,0.0,0.0,0.0,0.26,0.38,0.0,0.0,0.36
+parsopercularis-lh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+rostralanteriorcingulate-lh,0.0,0.41304347826086957,0.0,0.0,0.0,0.0,0.5869565217391305,0.0
+temporalpole-rh,0.0,0.0,0.0,0.3333333333333333,0.2807017543859649,0.0,0.0,0.38596491228070173
