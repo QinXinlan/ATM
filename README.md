@@ -257,21 +257,28 @@ quantity.
 
 ## 11. Population / group labelling used in figures
 
-Clinical grouping in the group-level plots (`group_overview.png`,
-`longitudinal_trajectory.png`, `participant_comparison_*.png`) is derived
-from **MoCA** score (falling back to MMSE where MoCA is missing):
+Clinical grouping is taken directly from the `Group` column of
+`Participants*.csv`, matched to each session by subject ID and handling
+longitudinally re-tested subjects via the `Sessions` column. It is **not** a
+simple MoCA cutoff applied post-hoc; it's a pre-computed clinical
+categorisation that combines MoCA and MMSE (education-adjusted):
 
-| MoCA | Group |
+| Group | Criterion |
 |---|---|
-| ≥ 26 | Healthy Control (HC) |
-| 18 – 25 | Mild Cognitive Impairment (MCI) |
-| < 18 | Alzheimer's Disease (AD) |
-| missing | `unknown` |
+| `HC` | MoCA **and** MMSE both indicate normal cognition |
+| `MCI` | MoCA **and** MMSE both indicate impairment (concordant) |
+| `MCI_Discordant` | MoCA and MMSE **disagree** — one indicates impairment, the other doesn't (most commonly MoCA below threshold with MMSE still ≥ 24, a known MMSE ceiling-effect pattern) |
+| `AD` | MoCA and MMSE both indicate impairment, with MoCA in the severe range — clinically consistent with dementia |
+| `NA` | Both MoCA and MMSE missing — left ungrouped |
 
-Clinical scores are read from a `Participants*.csv` file (see
-`load_participants_csv` in the batch driver) matched to each session by
-subject ID, excluding rows explicitly tagged `Environment == 'Lab'`, and
-handling longitudinally re-tested subjects via a `Sessions` column.
+Normal-vs-impaired thresholds are **not a single fixed number** — the
+per-subject `Reason` field shows education-adjusted MoCA cutoffs (standard
+≥ 23; +1 point credit for ≤ 12 years education per Carson et al.; a
+Youden-optimal ≥ 24 cutoff for high-education subjects per Pugh et al.) and
+an analogous MMSE split (standard ≥ 24; ≥ 27 for 16+ years education per
+O'Bryant et al.). When only one of MoCA/MMSE is available, that score alone
+determines the group (e.g. MMSE-only classification for illiterate subjects
+with no MoCA).
 
 ---
 
