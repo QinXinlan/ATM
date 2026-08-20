@@ -7,7 +7,8 @@ README explains **what signal each ATM is computed from, what modelling choices
 were made, why, and what the alternatives were**, so that the results can be
 interpreted (and reproduced) without needing to read the full pipeline source.
 
-> **⚠️ Before using any specific subject/session, check §13.** A subset of
+> [!WARNING]
+> Before using any specific subject/session, check §13. A subset of
 > sessions have known data-quality issues — device failures, noisy
 > recordings, incomplete sessions, or subject-specific physical/cognitive
 > confounds — that were not excluded from this repository. Depending on the
