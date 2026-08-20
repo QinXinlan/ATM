@@ -1,51 +1,51 @@
-Subject,Sessions,Environment,Age,Gender,Date,MOCA,MMSE,Education,Literacy,Test language,Group,Reason
-S01,Sess01 & Sess02,Hospital,88,M,2025/09/24,NA,NA,Doctorate,Literate,Mandarin Chinese,HC,NA
-S02,Sess01,Hospital,73,M,2025/09/25,20/30,26/30,Middle school,Literate,Mandarin Chinese,MCI_Discordant,MoCA 20/30 <23 but MMSE 26/30 ?24; MoCA detects early impairment missed by MMSE (known ceiling effect).
-S03,Sess01,Hospital,72,M,2025/11/03,14/30,20/30,Primary school,Literate,Mandarin Chinese,MCI,MoCA 14/30 <23 and MMSE 20/30 <24; both instruments indicate cognitive impairment.
-S04,Sess01,Hospital,71,M,2025/11/03,NA,NA,Bachelor,Literate,Mandarin Chinese,NA,NA
-S05,Sess01,Hospital,68,F,2025/11/03,NA,NA,High school,Literate,Mandarin Chinese,NA,NA
-S06,Sess01,Hospital,63,M,2025/11//06,24/30,27/30,Primary school,Literate,Mandarin Chinese,HC,MoCA 24/30 ?23 and MMSE 27/30 ?24; both instruments indicate normal cognition.
-S07,Sess01 & Sess02,Hospital,61,F,2025/11//06,26/30,29/30,High school,Literate,Mandarin Chinese,HC,MoCA 26/30 ?23 and MMSE 29/30 ?24; both instruments indicate normal cognition.
-S08,Sess01,Hospital,73,F,2025/11//06,15/30,25/30,Primary school,Literate,Mandarin Chinese,MCI_Discordant,MoCA 15/30 <23 but MMSE 25/30 ?24; MoCA detects early impairment missed by MMSE (known ceiling effect).
-S09,Sess01 & Sess02,Hospital,61,F,2025/11/27,17/30,23/30,Probably primary school,Literate,Mandarin Chinese,MCI,MoCA 17/30 <23 and MMSE 23/30 <24; both instruments indicate cognitive impairment.
-S10,Sess01,Hospital,77,F,2025/11/27,17/30,26/30,Probably primary school,Literate,Mandarin Chinese,MCI_Discordant,MoCA 17/30 <23 but MMSE 26/30 ?24; MoCA detects early impairment missed by MMSE (known ceiling effect).
-S11,Sess01,Hospital,59,M,2025/11/27,20/30,23/30,Probably middle school,Literate,Mandarin Chinese,MCI,MoCA 20/30 <23 and MMSE 23/30 <24; both instruments indicate cognitive impairment.
-S12,Sess01,Hospital,71,M,2025/12/04,22/30,28/30,Middle school,Literate,Mandarin Chinese,MCI_Discordant,MoCA 22/30 <23 but MMSE 28/30 ?24; MoCA detects early impairment missed by MMSE (known ceiling effect).
-S13,Sess01,Hospital,79,M,2025/12/04,16/30,23/30,Primary school,Literate,Mandarin Chinese,MCI,MoCA 16/30 <23 and MMSE 23/30 <24; both instruments indicate cognitive impairment.
-S14,Sess01,Hospital,67,F,2025/12/04,NA,17/30,None,Illiterate,Mandarin Chinese,MCI,MMSE 17/30 <24; impaired cognition (MoCA unavailable).
-S15,Sess01,Hospital,76,F,2025/12/04,16/30,23/30,None,Illiterate,Mandarin Chinese,MCI,MoCA 16/30 <23 and MMSE 23/30 <24; both instruments indicate cognitive impairment.
-S16,Sess01 & Sess02,Hospital,69,F,2025/12/08,09/30,23/30,Primary school,Literate,Mandarin Chinese,AD,MoCA 9/30 well below 23 (severe impairment range) and MMSE 23/30 <24; consistent with dementia.
-S17,Sess01 & Sess02,Hospital,73,F,2025/12/08,24/30,29/30,NA,Literate,Mandarin Chinese,HC,MoCA 24/30 ?23 and MMSE 29/30 ?24; both instruments indicate normal cognition.
-S18,Sess01,Hospital,74,F,2025/12/11,11/30,23/30,None,Illiterate,Mandarin Chinese,AD,MoCA 11/30 well below 23 (severe impairment range) and MMSE 23/30 <24; consistent with dementia.
-S19,Sess01 & Sess02,Hospital,68,F,2025/12/11,10/30,17/30,None,Illiterate,Mandarin Chinese,AD,MoCA 10/30 well below 23 (severe impairment range) and MMSE 17/30 <24; consistent with dementia.
-S20,Sess01 & Sess02,Hospital,79,F,2025/12/11,29/30,24/30,High school,Literate,Mandarin Chinese,HC,MoCA 29/30 ?23 and MMSE 24/30 ?24; both instruments indicate normal cognition.
-S21,Sess01,Hospital,62,M,2025/12/18,10/30,16/30,NA,Illiterate,Mandarin Chinese,AD,MoCA 10/30 well below 23 (severe impairment range) and MMSE 16/30 <24; consistent with dementia.
-S22,Sess01 & Sess02,Hospital,58,M,2025/12/18,20/30,22/30,NA,Literate,Mandarin Chinese,MCI,MoCA 20/30 <23 and MMSE 22/30 <24; both instruments indicate cognitive impairment.
-S23,Sess01,Hospital,73,F,2025/12/18,18/30,24/30,NA,Literate,Mandarin Chinese,MCI_Discordant,MoCA 18/30 <23 but MMSE 24/30 ?24; MoCA detects early impairment missed by MMSE (known ceiling effect).
-S24,Sess01,Hospital,63,F,2025/12/18,28/30,28/30,NA,Literate,Mandarin Chinese,HC,MoCA 28/30 ?23 and MMSE 28/30 ?24; both instruments indicate normal cognition.
-S25,Sess01 & Sess02,Hospital,68,M,2026/01/08,15/30,26/30,Primary school,Literate,Mandarin Chinese,MCI_Discordant,MoCA 15/30 <23 but MMSE 26/30 ?24; MoCA detects early impairment missed by MMSE (known ceiling effect).
-S26,Sess01 & Sess02 & Sess03,Hospital,79,F,2026/01/08,14/30,16/30,Middle school,Literate,Mandarin Chinese,MCI,MoCA 14/30 <23 and MMSE 16/30 <24; both instruments indicate cognitive impairment.
-S27,Sess01,Hospital,69,F,2026/01/08,12/30,14/30,High school,Literate,Mandarin Chinese,AD,MoCA 12/30 well below 23 (severe impairment range) and MMSE 14/30 <24; consistent with dementia.
-S28,Sess01 & Sess02,Retirement Home 1,84,M,2026/01/15,23/30,29/30,Probably primary school,Illiterate,Mandarin Chinese,HC,MoCA 23/30 ?23 and MMSE 29/30 ?24; both instruments indicate normal cognition.
-S29,Sess01,Retirement Home 1,74,F,2026/01/15,28/30,29/30,Master,Literate,Mandarin Chinese,HC,MoCA 28/30 ?23 and MMSE 29/30 ?27; both instruments indicate normal cognition (high-edu MMSE threshold applied).
-S30,Sess01,Retirement Home 1,92,M,2026/01/15,5/30,14/30,NA,Literate,Mandarin Chinese,AD,MoCA 5/30 well below 23 (severe impairment range) and MMSE 14/30 <24; consistent with dementia.
-S16,Sess03 & Sess04,Hospital,69,F,2026/04/08,17/30,27/30,Primary school,Literate,Mandarin Chinese,MCI_Discordant,MoCA 17/30 <23 but MMSE 27/30 ?24; MoCA detects early impairment missed by MMSE (known ceiling effect).
-S31,Sess01,Hospital,77,F,2026/04/16,12/30,17/30,Primary school,Literate,Mandarin Chinese,AD,MoCA 12/30 well below 23 (severe impairment range) and MMSE 17/30 <24; consistent with dementia.
-S16,Sess05 & Sess06,Hospital,69,F,2026/06/08,21/30,26/30,Primary school,Literate,Mandarin Chinese,MCI_Discordant,MoCA 21/30 <23 but MMSE 26/30 ?24; MoCA detects early impairment missed by MMSE (known ceiling effect).
-S32,Sess01 & Sess02,Hospital,77,F,2026/06/08,23/30,27/30,Primary school,Literate,Mandarin Chinese,HC,MoCA 23/30 ?23 and MMSE 27/30 ?24; both instruments indicate normal cognition.
-S33,Sess01 & Sess02,Hospital,65,M,2026/06/08,20/30,26/30,None,Illiterate,Mandarin Chinese,MCI_Discordant,"MoCA 20/30 <23 but MMSE 26/30 ?24 (recorded as 26/60 in source,, treated as typo for 26/30); MoCA detects early impairment missed by MMSE (known ceiling effect)."
-S34,Sess01 & Sess02,Retirement Home 2,87,F,2026/06/09,18/30,22/30,Primary school,Literate,Mandarin Chinese,MCI,MoCA 18/30 <23 and MMSE 22/30 <24; both instruments indicate cognitive impairment.
-S35,Sess01,Retirement Home 2,67,M,2026/06/09,21/30,26/30,High school,Literate,Mandarin Chinese,MCI_Discordant,MoCA 21/30 <23 but MMSE 26/30 ?24; MoCA detects early impairment missed by MMSE (known ceiling effect).
-S36,Sess01 & Sess02,Retirement Home 2,78,F,2026/06/09,18/30,26/30,Primary school,Literate,Mandarin Chinese,MCI_Discordant,MoCA 18/30 <23 but MMSE 26/30 ?24; MoCA detects early impairment missed by MMSE (known ceiling effect).
-S37,Sess01 & Sess02,Community Center 1,64,M,2026/06/15,28/30,30/30,High school,Literate,Mandarin Chinese,HC,MoCA 28/30 ?23 and MMSE 30/30 ?24; both instruments indicate normal cognition.
-S38,Sess01 & Sess02,Community Center 1,59,F,2026/06/15,25/30,29/30,High school,Literate,Mandarin Chinese,HC,MoCA 25/30 ?23 and MMSE 29/30 ?24; both instruments indicate normal cognition.
-S39,Sess01 & Sess02,Community Center 1,78,M,2026/06/15,14/30,19/30,High school,Literate,Mandarin Chinese,MCI,MoCA 14/30 <23 and MMSE 19/30 <24; both instruments indicate cognitive impairment.
-S40,Sess01 & Sess02,Community Center 2,76,M,2026/06/16,25/30,27/30,Primary school,Literate,Mandarin Chinese,HC,MoCA 25/30 ?23 and MMSE 27/30 ?24; both instruments indicate normal cognition.
-S41,Sess01 & Sess02,Community Center 2,87,M,2026/06/16,12/30,21/30,Primary school,Literate,Mandarin Chinese,AD,MoCA 12/30 well below 23 (severe impairment range) and MMSE 21/30 <24; consistent with dementia.
-S42,Sess01 & Sess02,Community Center 2,89,F,2026/06/16,12/30,24/30,NA,Literate,Mandarin Chinese,MCI_Discordant,MoCA 12/30 well below 23 but MMSE 24/30 ?24; MoCA detects severe impairment missed by MMSE (known ceiling effect).
-S43,Sess01 & Sess02,Community Center 3,89,F,22/06/2026,11/30,21/30,None,Literate,Mandarin Chinese,AD,MoCA 11/30 well below 23 (severe impairment range) and MMSE 21/30 <24; consistent with dementia.
-S44,Sess01 & Sess02,Community Center 3,55,F,22/06/2026,29/30,29/30,Bachelor,Literate,Mandarin Chinese,HC,MoCA 29/30 ?23 and MMSE 29/30 ?24; both instruments indicate normal cognition (high-edu MMSE threshold applied).
-S45,Sess01 & Sess02,Community Center 3,76,F,22/06/2026,29/30,30/30,Middle school,Literate,Mandarin Chinese,HC,"MoCA 29/30 ?23 (? 12 years education +1 raw point credit,, Carson et al.; Nasreddine et al.) and MMSE 30/30 ?24; both instruments indicate normal cognition."
-S46,Sess01 & Sess02,Community Center 3,82,M,22/06/2026,24/30,30/30,Middle school,Literate,Mandarin Chinese,HC,"MoCA 24/30 ?23 (? 12 years education +1 raw point credit,, Carson et al.; Nasreddine et al.) and MMSE 30/30 ?24; both instruments indicate normal cognition."
-S47,Sess01 & Sess02,Community Center 2,77,F,23/06/2026,07/30,16/30,None,Illiterate,Mandarin Chinese,AD,MoCA 7/30 well below 23 (severe impairment range) and MMSE 16/30 <24; consistent with dementia.
-S48,Sess01 & Sess02,Community Center 2,82,F,23/06/2026,16/30,27/30,Middle school,Literate,Mandarin Chinese,MCI_Discordant,MoCA 16/30 <23 but MMSE 27/30 ?24; MoCA detects early impairment missed by MMSE (known ceiling effect).
+Subject,Sessions,Environment,Age,Gender,Date,MOCA,MMSE,Education,Literacy,Test language,Group,Remark
+S01,Sess01 & Sess02,Hospital,88,M,2025/09/24,NA,NA,Doctorate,Literate,Mandarin Chinese,HC,
+S02,Sess01,Hospital,73,M,2025/09/25,20/30,26/30,Middle school,Literate,Mandarin Chinese,MCI_Discordant,
+S03,Sess01,Hospital,72,M,2025/11/03,14/30,20/30,Primary school,Literate,Mandarin Chinese,MCI,"EMG not working, use keyboard as input"
+S04,Sess01,Hospital,71,M,2025/11/03,NA,NA,Bachelor,Literate,Mandarin Chinese,NA,
+S05,Sess01,Hospital,68,F,2025/11/03,NA,NA,High school,Literate,Mandarin Chinese,NA,
+S06,Sess01,Hospital,63,M,2025/11//06,24/30,27/30,Primary school,Literate,Mandarin Chinese,HC,
+S07,Sess01 & Sess02,Hospital,61,F,2025/11//06,26/30,29/30,High school,Literate,Mandarin Chinese,HC,
+S08,Sess01,Hospital,73,F,2025/11//06,15/30,25/30,Primary school,Literate,Mandarin Chinese,MCI_Discordant,
+S09,Sess01 & Sess02,Hospital,61,F,2025/11/27,17/30,23/30,Probably primary school,Literate,Mandarin Chinese,MCI,
+S10,Sess01,Hospital,77,F,2025/11/27,17/30,26/30,Probably primary school,Literate,Mandarin Chinese,MCI_Discordant,
+S11,Sess01,Hospital,59,M,2025/11/27,20/30,23/30,Probably middle school,Literate,Mandarin Chinese,MCI,
+S12,Sess01,Hospital,71,M,2025/12/04,22/30,28/30,Middle school,Literate,Mandarin Chinese,MCI_Discordant,
+S13,Sess01,Hospital,79,M,2025/12/04,16/30,23/30,Primary school,Literate,Mandarin Chinese,MCI,
+S14,Sess01,Hospital,67,F,2025/12/04,NA,17/30,None,Illiterate,Mandarin Chinese,MCI,
+S15,Sess01,Hospital,76,F,2025/12/04,16/30,23/30,None,Illiterate,Mandarin Chinese,MCI,
+S16,Sess01 & Sess02,Hospital,69,F,2025/12/08,09/30,23/30,Primary school,Literate,Mandarin Chinese,AD,
+S17,Sess01 & Sess02,Hospital,73,F,2025/12/08,24/30,29/30,NA,Literate,Mandarin Chinese,HC,
+S18,Sess01,Hospital,74,F,2025/12/11,11/30,23/30,None,Illiterate,Mandarin Chinese,AD,
+S19,Sess01 & Sess02,Hospital,68,F,2025/12/11,10/30,17/30,None,Illiterate,Mandarin Chinese,AD,
+S20,Sess01 & Sess02,Hospital,79,F,2025/12/11,29/30,24/30,High school,Literate,Mandarin Chinese,HC,
+S21,Sess01,Hospital,62,M,2025/12/18,10/30,16/30,NA,Illiterate,Mandarin Chinese,AD,
+S22,Sess01 & Sess02,Hospital,58,M,2025/12/18,20/30,22/30,NA,Literate,Mandarin Chinese,MCI,"Sess01, fNIRS D06 hat fell down"
+S23,Sess01,Hospital,73,F,2025/12/18,18/30,24/30,NA,Literate,Mandarin Chinese,MCI_Discordant,
+S24,Sess01,Hospital,63,F,2025/12/18,28/30,28/30,NA,Literate,Mandarin Chinese,HC,
+S25,Sess01 & Sess02,Hospital,68,M,2026/01/08,15/30,26/30,Primary school,Literate,Mandarin Chinese,MCI_Discordant,D13 might have fell a bit
+S26,Sess01 & Sess02 & Sess03,Hospital,79,F,2026/01/08,14/30,16/30,Middle school,Literate,Mandarin Chinese,MCI,Could not understand the instructions
+S27,Sess01,Hospital,69,F,2026/01/08,12/30,14/30,High school,Literate,Mandarin Chinese,AD,
+S28,Sess01 & Sess02,Retirement Home 1,84,M,2026/01/15,23/30,29/30,Probably primary school,Illiterate,Mandarin Chinese,HC,
+S29,Sess01,Retirement Home 1,74,F,2026/01/15,28/30,29/30,Master,Literate,Mandarin Chinese,HC,
+S30,Sess01,Retirement Home 1,92,M,2026/01/15,5/30,14/30,NA,Literate,Mandarin Chinese,AD,Could not understand the instructions (Eva's audio cues)
+S16,Sess03 & Sess04,Hospital,69,F,2026/04/08,17/30,27/30,Primary school,Literate,Mandarin Chinese,MCI_Discordant,
+S31,Sess01,Hospital,77,F,2026/04/16,12/30,17/30,Primary school,Literate,Mandarin Chinese,AD,"fNIRS no signal, EEG very noisy, didn't do until the end"
+S16,Sess05 & Sess06,Hospital,69,F,2026/06/08,21/30,26/30,Primary school,Literate,Mandarin Chinese,MCI_Discordant,Sess05 phone rang
+S32,Sess01 & Sess02,Hospital,77,F,2026/06/08,23/30,27/30,Primary school,Literate,Mandarin Chinese,HC,Scratched several times her head during the sessions
+S33,Sess01 & Sess02,Hospital,65,M,2026/06/08,20/30,26/30,None,Illiterate,Mandarin Chinese,MCI_Discordant,
+S34,Sess01 & Sess02,Retirement Home 2,87,F,2026/06/09,18/30,22/30,Primary school,Literate,Mandarin Chinese,MCI,"Sess01 didn't complete, Sess02 ok but with verbal cues"
+S35,Sess01,Retirement Home 2,67,M,2026/06/09,21/30,26/30,High school,Literate,Mandarin Chinese,MCI_Discordant,"Sess01 didn't complete, Sess02 ok but with verbal cues"
+S36,Sess01 & Sess02,Retirement Home 2,78,F,2026/06/09,18/30,26/30,Primary school,Literate,Mandarin Chinese,MCI_Discordant,
+S37,Sess01 & Sess02,Community Center 1,64,M,2026/06/15,28/30,30/30,High school,Literate,Mandarin Chinese,HC,
+S38,Sess01 & Sess02,Community Center 1,59,F,2026/06/15,25/30,29/30,High school,Literate,Mandarin Chinese,HC,
+S39,Sess01 & Sess02,Community Center 1,78,M,2026/06/15,14/30,19/30,High school,Literate,Mandarin Chinese,MCI,
+S40,Sess01 & Sess02,Community Center 2,76,M,2026/06/16,25/30,27/30,Primary school,Literate,Mandarin Chinese,HC,
+S41,Sess01 & Sess02,Community Center 2,87,M,2026/06/16,12/30,21/30,Primary school,Literate,Mandarin Chinese,AD,
+S42,Sess01 & Sess02,Community Center 2,89,F,2026/06/16,12/30,24/30,NA,Literate,Mandarin Chinese,MCI_Discordant,
+S43,Sess01 & Sess02,Community Center 3,89,F,22/06/2026,11/30,21/30,None,Literate,Mandarin Chinese,AD,"Sess02 didn't complete. Too many errors, code wrong lantern/arrow: 5, 13, 16, 19"
+S44,Sess01 & Sess02,Community Center 3,55,F,22/06/2026,29/30,29/30,Bachelor,Literate,Mandarin Chinese,HC,
+S45,Sess01 & Sess02,Community Center 3,76,F,22/06/2026,29/30,30/30,Middle school,Literate,Mandarin Chinese,HC,
+S46,Sess01 & Sess02,Community Center 3,82,M,22/06/2026,24/30,30/30,Middle school,Literate,Mandarin Chinese,HC,Exchange ½ EEG; Sess01 very noisy: people playing cards
+S47,Sess01 & Sess02,Community Center 2,77,F,23/06/2026,07/30,16/30,None,Illiterate,Mandarin Chinese,AD,"She gave up on several questions in MMSE (read, write, draw) and MOCA (draw). She had a surgery on the right arm, couldn't hold a pen. And she came to Hangzhou only for the surgery, so didn't know the location-related questions."
+S48,Sess01 & Sess02,Community Center 2,82,F,23/06/2026,16/30,27/30,Middle school,Literate,Mandarin Chinese,MCI_Discordant,"Exchange ½ EEG; stroke (1999, 2010) in right hemisphere, left hand not working well; high blood pressure; Sess02 6th lantern (wrong) moved whole body to move the fnirs cable box"

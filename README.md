@@ -7,6 +7,17 @@ README explains **what signal each ATM is computed from, what modelling choices
 were made, why, and what the alternatives were**, so that the results can be
 interpreted (and reproduced) without needing to read the full pipeline source.
 
+> **⚠️ Before using any specific subject/session, check §13.** A subset of
+> sessions have known data-quality issues — device failures, noisy
+> recordings, incomplete sessions, or subject-specific physical/cognitive
+> confounds — that were not excluded from this repository. Depending on the
+> issue, these can invalidate the RT-window definition (EMG failure),
+> depress signal-to-noise in a given band/modality (loose optodes, room
+> noise, motion), bias σ toward artefactual transitions (motion artefacts,
+> incomplete task engagement), or make a condition's data non-representative
+> of neurotypical performance (e.g. a hemiparetic hand in the left/right
+> task). See §13 for the full per-subject/session list before drawing
+> conclusions from an affected session.
 
 ---
 
@@ -305,3 +316,57 @@ group/
   group_overview.png, longitudinal_trajectory.png
 ```
 
+## 13. Data-quality caveats 
+
+The remarks below are copied/summarised from the Remark column
+of Participants*.csv, filled in only when something notable happened
+during acquisition for that subject/session. An empty Remark field means
+nothing unusual was logged — not that the session was independently
+verified clean.
+
+### EMG / input-device issues
+- **S03, Sess01** — EMG not working; keyboard used as input instead. Any
+  `representative_rt` / RT-window results (§5) for this session are **not**
+  EMG-derived and are not comparable to other sessions on that basis.
+
+### fNIRS signal / montage issues
+- **S22, Sess01** — fNIRS optode D06 ("hat") fell down during the session.
+- **S25** — fNIRS optode D13 may have shifted ("might have fell a bit").
+- **S31, Sess01** — fNIRS: no signal. EEG: very noisy. Session was not
+  completed to the end.
+- **S48, Sess02** — 6th lantern trial: subject moved their whole body to
+  move the fNIRS cable box (likely a motion artefact at that trial).
+
+### Noise issues
+- **S16, Sess05** — Phone rang during the session.
+- **S32** — Subject scratched their head several times during the
+  sessions (possible movement artefact).
+- **S46, Sess01** — Very noisy (other people playing cards in the room
+  during recording). 
+
+### Task comprehension / session completion issues
+- **S26** — Could not understand the task instructions.
+- **S30** — Could not understand the task instructions (audio cues).
+- **S34** — Sess01 not completed; Sess02 completed but with verbal cues
+  given to the subject (deviation from the standard protocol).
+- **S35** — Sess01 not completed; Sess02 completed but with verbal cues
+  given to the subject (deviation from the standard protocol).
+- **S43, Sess02** — Not completed; many errors, including the lantern/arrow
+  code being wrong on trials 5, 13, 16, and 19.
+
+### Physical / motor confounds (relevant to left/right hand task)
+- **S47** — Gave up on several MMSE items (read, write, draw) and the MoCA
+  draw item; recent surgery on the right arm meant she could not hold a
+  pen. Also unfamiliar with the local area (came to Hangzhou only for the
+  surgery), so location-related cognitive-test questions may
+  under-represent her baseline cognition.
+- **S48** — History of stroke (1999, 2010) in the right hemisphere; left
+  hand does not work well. Also has high blood pressure. **Left-hand
+  motor execution/imagery data for this subject should be interpreted with
+  this impairment in mind**, not treated as a neurotypical left-hand
+  condition.
+
+
+None of these subjects/sessions have been excluded from the repository —
+the remarks are preserved so each downstream analysis can decide per-case
+whether to exclude, flag, or keep them.
