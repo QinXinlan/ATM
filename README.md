@@ -8,7 +8,7 @@ were made, why, and what the alternatives were**, so that the results can be
 interpreted (and reproduced) without needing to read the full pipeline source.
 
 > [!WARNING]
-> Before using any specific subject/session, check §13. A subset of
+> Before using any specific subject/session, check §14. A subset of
 > sessions have known data-quality issues — device failures, noisy
 > recordings, incomplete sessions, or subject-specific physical/cognitive
 > confounds — that were not excluded from this repository. Depending on the
@@ -17,7 +17,7 @@ interpreted (and reproduced) without needing to read the full pipeline source.
 > noise, motion), bias σ toward artefactual transitions (motion artefacts,
 > incomplete task engagement), or make a condition's data non-representative
 > of neurotypical performance (e.g. a hemiparetic hand in the left/right
-> task). See §13 for the full per-subject/session list before drawing
+> task). See §14 for the full per-subject/session list before drawing
 > conclusions from an affected session.
 
 ---
@@ -36,7 +36,8 @@ raw EEG (.csv) + raw fNIRS (.snirf)
         │  correction (peak_power) → optional short-channel regression → bandpass
         │
         ├─ EEG source localisation (dSPM, fsaverage, aparc)  ─┐
-        ├─ fNIRS→parcel mapping (nearest optode→vertex, aparc) ┘  → common atlas
+        ├─ fNIRS→parcel mapping (nearest_vertex, aparc — §8   ┘  → common atlas
+        │  lists other channel→parcel methods, e.g. DOT)
         │
         └─ Avalanche Transition Matrix (ATM) + branching parameter σ
            computed independently per: modality × space × frequency band ×
@@ -59,9 +60,9 @@ Every ATM in this repository is therefore tagged by **five axes**:
 
 | Modality × Space | Input signal to the ATM | How it was produced |
 |---|---|---|
-| **EEG `source_space`** | Per-parcel dSPM source time course (68 `aparc` cortical labels, `mean_flip` aggregation across vertices) | Band-filtered sensor data (IIR Butterworth, order 4) → forward model (3-layer BEM, `fsaverage`) → dSPM inverse → `mne.extract_label_time_course` |
+| **EEG `source_space`** | Per-parcel dSPM source time course (68 `aparc` cortical labels, `mean_flip` aggregation across vertices) | Band-filtered sensor data (IIR Butterworth, order 4) → forward model (3-layer BEM, `fsaverage`) → dSPM inverse → `mne.extract_label_time_course` (`dSPM` inverse method; §7 lists alternatives such as `MNE`, `sLORETA`, `eLORETA`, and other parcellation/source-space choices) |
 | **EEG `sensor_space`** | Band-filtered raw EEG channel voltages (no source modelling) | Same IIR band filter applied directly to the re-referenced/cleaned sensor data |
-| **fNIRS `parcel_space`** | Per-parcel HbO (and, by default, HbR — see §6) time course | Each optode-pair midpoint geometrically assigned to the nearest `fsaverage` pial-surface vertex (≤ 30 mm) → parcel = that vertex's `aparc` label → channels within a parcel averaged |
+| **fNIRS `parcel_space`** | Per-parcel HbO (and, by default, HbR — see §6) time course | Each optode-pair midpoint geometrically assigned to the nearest `fsaverage` pial-surface vertex (≤ 30 mm) → parcel = that vertex's `aparc` label → channels within a parcel averaged (`nearest_vertex` method; §8 lists alternatives such as distance-weighted, sensitivity/PMDF-weighted, and DOT) |
 | **fNIRS `sensor_space`** | Band-filtered HbO channel concentrations (no parcellation) | Same IIR band filter applied directly to Beer-Lambert-converted, motion-corrected channel data |
 
 All four variants use the **same ATM algorithm** (§3) — only the definition of
@@ -81,7 +82,7 @@ All four variants use the **same ATM algorithm** (§3) — only the definition o
 3. **Avalanche segmentation.** An avalanche is any maximal contiguous stretch
    of time where **at least one node is active**. Avalanches are detected on
    the *concatenation of all trials* for a given condition (see caveat in
-   §9.1 — this is important).
+   §10.1 — this is important).
 4. **Transition counting.** Within each avalanche, every pair `(node i active
    at t, node j active at t+1)` increments `ATM[i, j]` by 1.
 5. **Row normalisation.** Each row of the raw transition-count matrix is
@@ -91,7 +92,7 @@ All four variants use the **same ATM algorithm** (§3) — only the definition o
    *propagation structure*, not *how much* activity there was.
 
 This is a **binary, single-lag (Markov, t→t+1), amplitude-agnostic** model of
-propagation — see §9 for the modelling consequences.
+propagation — see §10 for the modelling consequences.
 
 ---
 
@@ -132,7 +133,7 @@ clamped to [0,1]), `jeffreys` (Beta credible interval).
 |---|---|---|---|
 | EEG | `full_window` | MI: `0 → 5.0 s` (fixed) · ME: `0 → representative RT` (or 2.0 s fixed if no EMG) | Diagnostic / within-condition only. **Not a valid MI-vs-ME contrast** — the two conditions use different-length, different-reference windows. This is flagged explicitly in the output filenames/titles. |
 | EEG | `rt_window` | `0 → representative RT` for **both** MI and ME | Valid MI-vs-ME contrast: both conditions share an identical window definition. |
-| EEG | `common_parcels_fnirs` | Same full/RT windows, restricted to the subset of `aparc` parcels also covered by this session's fNIRS optode array | Session-matched, equal-node-count EEG/fNIRS comparison — **not** directly comparable to the full-parcellation EEG σ values (fewer nodes changes avalanche/A(t) statistics; see §9.5). |
+| EEG | `common_parcels_fnirs` | Same full/RT windows, restricted to the subset of `aparc` parcels also covered by this session's fNIRS optode array | Session-matched, equal-node-count EEG/fNIRS comparison — **not** directly comparable to the full-parcellation EEG σ values (fewer nodes changes avalanche/A(t) statistics; see §10.5). |
 | fNIRS | `full_window` | `3 – 12 s` post-trigger | Covers the full canonical HRF (peak ≈ 6 s). |
 | fNIRS | `hrf_window` | `2 – 8 s` post-trigger | Isolates the rising flank of the HRF (initial cortical engagement), timed to be closer to the EEG RT window. |
 
@@ -140,7 +141,7 @@ clamped to [0,1]), `jeffreys` (Beta credible interval).
 per-trial offline-detected EMG onset latency (slope-based burst detector on
 a two-level rolling-SD ("global SD") stack of the AUX EMG channels; see
 `EMG_DETECTION_METHOD='slope'`). It is a **single session-level scalar**,
-not matched per trial — this is a modelling simplification (§9.6).
+not matched per trial — this is a modelling simplification (§10.6).
 
 ---
 
@@ -175,27 +176,114 @@ individual cortical folding is captured.
 
 ## 8. fNIRS parcellation — choices made and alternatives
 
-- **Method:** `nearest_vertex` — each optode-pair channel is projected to
-  its nearest vertex on the `fsaverage` pial surface (rejected if
-  > 30 mm away), and inherits that vertex's `aparc` parcel label.
-- **Aggregation:** `mean` across all channels assigned to the same parcel
-  (minimum 1 channel/parcel required).
-- **Modality:** `both` — HbO and HbR are parcellated independently.
-- **Chromophore handling in the ATM specifically**
-  (`FNIRS_ATM_USE_HBR = True` by default): the ATM is built as a
-  **dual-chromophore node set** — `[parcel₁_HbO … parcel_N_HbO,
-  parcel₁_HbR … parcel_N_HbR]` — giving a `(2N × 2N)` matrix that captures
-  HbO→HbO, HbO→HbR, HbR→HbO and HbR→HbR transitions in one matrix. If this
-  flag were disabled, only the `N` HbO parcels would be used as nodes.
+| Setting | Value used | Alternatives available in the pipeline / literature |
+|---|---|---|
+| Channel→parcel method | `nearest_vertex` — each optode-pair channel projected to nearest `fsaverage` pial-surface vertex (rejected if > 30 mm away), inherits that vertex's `aparc` label | Distance-weighted / spatial-kernel projection · Sensitivity-profile / PMDF-weighted (fOLD-style) · Diffuse Optical Tomography (DOT) — see comparison table below |
+| Aggregation | `mean` across all channels assigned to the same parcel (min. 1 channel/parcel) | `median` |
+| Chromophores parcellated | `both` — HbO and HbR, independently | HbO only |
+| ATM node set (`FNIRS_ATM_USE_HBR`) | `True` (default) — dual-chromophore nodes `[parcel₁_HbO…parcel_N_HbO, parcel₁_HbR…parcel_N_HbR]`, giving a `(2N × 2N)` matrix capturing HbO↔HbO, HbO↔HbR, HbR↔HbO, HbR↔HbR transitions | `False` — HbO-only nodes, `(N × N)` matrix |
 
 Because fNIRS has much coarser native spatial resolution (~3 cm) than the
 68-parcel cortical atlas, many parcels are covered by very few — sometimes
 just one — optode channel; parcel-level fNIRS "resolution" should not be
 over-interpreted as anatomically precise.
 
+### fNIRS channel→parcel methods: what's used vs. what's possible
+
+`nearest_vertex` is the simplest of several established ways to go from
+fNIRS channel space to an anatomical parcel representation. They differ in
+how much of the actual light-propagation physics they model, and therefore
+in cost and required inputs. Only `nearest_vertex` is implemented in this
+pipeline; the rest are listed here as the alternatives that exist in the
+wider fNIRS literature/toolchain, in order of increasing physical realism:
+
+| Method | What it does | Key parameters it would require |
+|---|---|---|
+| **`nearest_vertex`** (used here) | Hard-assigns each channel's MNI midpoint to the closest `aparc` vertex/parcel; channels in a parcel are averaged. | `max_distance_mm` (rejection radius), `min_channels_per_parcel`, `aggregation` (`mean`/`median`) |
+| **Distance-weighted / spatial-kernel projection** | Spreads each channel's signal across nearby parcels with a distance-decay kernel instead of a hard cutoff, so a channel can contribute partially to more than one parcel. | Kernel type (`gaussian`, `inverse_distance`), `fwhm_mm`/`sigma_mm`, `cutoff_radius_mm`, weight-normalisation scheme |
+| **Sensitivity-profile / PMDF-weighted (fOLD-style)** | Uses a precomputed Photon Measurement Density Function per channel (Monte Carlo photon migration or diffusion approximation on a head model) to weight each channel's contribution by how sensitive it actually is to absorption changes there, rather than by geometric distance alone. | Head model (`Colin27`/`ICBM152`/subject MRI), tissue optical properties (μa, μs′ per layer), simulation engine (`MCX`, `tMCimg`, `MMC`) or precomputed fOLD tables, photon count, wavelength(s), sensitivity threshold |
+| **Diffuse Optical Tomography (DOT)** — full image reconstruction | Solves an inverse problem to reconstruct absorption-change (→ HbO/HbR) images at every voxel/vertex of a head model, then aggregates reconstructed voxels into parcels afterward. | Forward sensitivity/Jacobian matrix (Monte Carlo or diffusion-equation solver, e.g. NIRFAST/Toast++/Redbird), head mesh, regularisation method + parameter λ, dual-wavelength combination, voxel/mesh resolution |
+
+`nearest_vertex` and the distance-weighted variant are purely geometric,
+data-independent operators — they don't depend on the recorded signal at
+all. The sensitivity-weighted and DOT methods are *not* purely geometric:
+they depend on a modelled or simulated light-propagation forward operator,
+and DOT in particular is a regularised inverse problem in the same family
+as EEG source localisation (§7). See §9 for what that difference means for
+the order trial-averaging is done in.
+
 ---
 
-## 9. Modelling hypotheses and how they shape the ATM
+## 9. Averaging order: trial-average-then-map, or map-then-trial-average?
+
+EEG source localisation and fNIRS parcellation resolve the "average
+trials, or map to anatomy, first?" question in opposite ways — and this is
+intentional, not an inconsistency. The table below summarises the order
+used by every method mentioned in §7/§8; the reasoning for each follows.
+
+| Modality / method | Order used | Because |
+|---|---|---|
+| EEG source localisation — any of `MNE`, `dSPM`, `sLORETA`, `eLORETA` (§7) | **Average, then localise** | Regularised inverse problem: optimal regularisation depends on the SNR of the data being inverted |
+| fNIRS geometric parcellation — `nearest_vertex` (used here), distance-weighted (§8) | **Order doesn't matter** — parcellate-then-average ≡ average-then-parcellate | Fixed, data-independent linear spatial average; no regularisation term |
+| fNIRS sensitivity/PMDF-weighted (§8) | Same as geometric methods, **provided** the sensitivity profiles are precomputed from a template/simulation rather than re-fit per recording | Still a fixed, data-independent linear weighting in that case |
+| fNIRS DOT — not implemented here (§8) | Would need **average, then reconstruct**, like EEG | Regularised inverse problem; same SNR-dependence as EEG source localisation |
+
+### Why EEG must average before it localises
+
+EEG source localisation is a regularised, ill-posed inverse problem. All
+four candidate methods solve a weighted minimum-norm problem under the
+same regularisation parameter, λ² = 1/SNR², and MNE-Python exposes this
+explicitly: `apply_inverse` (condition-average evoked data, SNR ≈ 3) and
+`apply_inverse_epochs` (single-trial data, SNR ≈ 1, scaled via `nave`)
+accept the identical `method` argument but need a different `lambda2`
+depending on whether the data being inverted has already been averaged.
+Hincapié et al. (2016, *Comput. Intell. Neurosci.*,
+doi:10.1155/2016/3979547) show that minimum-norm-based estimates — the
+family `MNE`/`dSPM`/`sLORETA`/`eLORETA` all belong to — require different
+regularisation depending on whether they are computed from averaged or
+single-trial data; the optimal λ² is a function of the SNR of the data
+actually being inverted, not a fixed constant. Averaging first and then
+inverting the evoked response at the condition-average SNR is therefore
+the correct order for the primary/ATM source estimate, whichever of the
+four methods is selected; the single-trial SNR (§7) is used separately,
+for genuine single-trial inversion (the per-trial CSVs in §13).
+
+### Why the fNIRS geometric methods don't care about order
+
+fNIRS parcellation, by contrast — for the geometric methods (§8's
+`nearest_vertex`, used here, and the distance-weighted variant) — has no
+regularisation term: it is a fixed linear spatial average of the channels
+whose projected position falls inside a parcel (Tsuzuki & Dan, 2014,
+*NeuroImage*, doi:10.1016/j.neuroimage.2013.07.025; see also `mne-nirs`'s
+region-of-interest averaging). Being a data-independent linear operation,
+it commutes with trial-averaging: parcellate-then-average and
+average-then-parcellate are numerically identical. The per-trial fNIRS
+parcel time courses (§13) are therefore parcellated per-trial first only
+to retain genuine single-trial parcel time courses for downstream
+per-trial ATM/GLM/hub-figure use, and averaged afterward as a byproduct —
+the fNIRS analogue of EEG's separate single-trial pass.
+
+### The exception: DOT would behave like EEG, not like the geometric methods
+
+This commutativity argument does not extend to DOT. Full diffuse optical
+tomography reconstruction is, like `MNE`/`dSPM`/`sLORETA`/`eLORETA` source
+localisation, a regularised inverse problem — its Tikhonov (or equivalent)
+regularisation parameter λ is a function of the SNR of the data actually
+being inverted, exactly the property that makes EEG's average-before-
+inverting order matter in the first place. Were DOT ever adopted in this
+pipeline, it would need the **same** treatment §7 gives EEG: reconstruct
+once at the single-trial SNR for genuine per-trial CSVs, and separately at
+the (higher) condition-average SNR for the ATM/GLM primary estimate —
+parcellate-then-average and average-then-parcellate would **not** be
+interchangeable for that method. The sensitivity/PMDF-weighted method sits
+in between: it is still a fixed, data-independent linear weighting (so it
+commutes like `nearest_vertex` does) as long as the sensitivity profiles
+themselves are precomputed from a template/simulation rather than re-fit
+per recording.
+
+---
+
+## 10. Modelling hypotheses and how they shape the ATM
 
 This section makes explicit every assumption baked into the numbers, since
 each one measurably changes σ and the ATM structure.
@@ -243,14 +331,14 @@ each one measurably changes σ and the ATM structure.
    but are not what group_contrasts/connectivity figures visualise.
 9. **Group-average and contrast σ rows are unweighted means** across the
    contributing per-condition σ_ratio values — sessions/conditions are not
-   weighted by trial count when pooled (see `SIGMA_COMBINATIONS` in §10).
+   weighted by trial count when pooled (see `SIGMA_COMBINATIONS` in §11).
 10. **Full-window MI-vs-ME is explicitly not a valid contrast** (§5) — any
     comparison across these two conditions should use the RT-window
     variant instead.
 
 ---
 
-## 10. Group-level σ rows exported per session
+## 11. Group-level σ rows exported per session
 
 Every session's `sigma_ratio_*.csv` contains these 12 standard rows:
 
@@ -267,7 +355,7 @@ quantity.
 
 ---
 
-## 11. Population / group labelling used in figures
+## 12. Population / group labelling used in figures
 
 Clinical grouping is taken directly from the `Group` column of
 `Participants*.csv`, matched to each session by subject ID and handling
@@ -294,7 +382,7 @@ with no MoCA).
 
 ---
 
-## 12. Repository layout (per session)
+## 13. Repository layout (per session)
 
 ```
 per_session/S<id>_Sess<id>/
@@ -317,7 +405,7 @@ group/
   group_overview.png, longitudinal_trajectory.png
 ```
 
-## 13. Data-quality caveats 
+## 14. Data-quality caveats 
 
 The remarks below are copied/summarised from the Remark column
 of Participants*.csv, filled in only when something notable happened
