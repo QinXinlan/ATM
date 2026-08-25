@@ -1,0 +1,9 @@
+,entorhinal-lh,frontalpole-lh,frontalpole-rh,parahippocampal-rh,rostralanteriorcingulate-rh,temporalpole-lh,temporalpole-rh,transversetemporal-lh
+entorhinal-lh,0.7297297297297297,0.0,0.0,0.0,0.0,0.013513513513513514,0.0945945945945946,0.16216216216216217
+frontalpole-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+temporalpole-lh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+temporalpole-rh,0.21428571428571427,0.0,0.0,0.0,0.0,0.0,0.7857142857142857,0.0
+transversetemporal-lh,0.44,0.0,0.0,0.0,0.0,0.0,0.0,0.56
