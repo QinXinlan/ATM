@@ -1,0 +1,9 @@
+,caudalmiddlefrontal-rh,frontalpole-lh,frontalpole-rh,lateraloccipital-lh,middletemporal-lh,parahippocampal-lh,temporalpole-lh,transversetemporal-lh
+caudalmiddlefrontal-rh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+lateraloccipital-lh,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+middletemporal-lh,0.0,0.0,0.0,0.0,0.4230769230769231,0.11538461538461539,0.0,0.46153846153846156
+parahippocampal-lh,0.0,0.0,0.0,0.0,0.07142857142857142,0.7857142857142857,0.0,0.14285714285714285
+temporalpole-lh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+transversetemporal-lh,0.0,0.0,0.0,0.0,0.4074074074074074,0.14814814814814814,0.0,0.4444444444444444
