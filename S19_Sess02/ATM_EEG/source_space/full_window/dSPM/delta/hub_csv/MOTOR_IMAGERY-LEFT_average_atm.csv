@@ -1,0 +1,9 @@
+,bankssts-rh,frontalpole-rh,paracentral-lh,posteriorcingulate-lh,rostralanteriorcingulate-lh,rostralanteriorcingulate-rh,temporalpole-rh,transversetemporal-rh
+bankssts-rh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+paracentral-lh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+posteriorcingulate-lh,0.0,0.0,0.0,0.4825174825174825,0.3333333333333333,0.18414918414918416,0.0,0.0
+rostralanteriorcingulate-lh,0.0,0.0,0.0,0.2965235173824131,0.49897750511247446,0.20449897750511248,0.0,0.0
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.26732673267326734,0.33663366336633666,0.39603960396039606,0.0,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+transversetemporal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

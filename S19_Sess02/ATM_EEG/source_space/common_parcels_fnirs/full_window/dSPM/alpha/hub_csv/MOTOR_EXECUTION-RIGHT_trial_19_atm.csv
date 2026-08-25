@@ -1,0 +1,9 @@
+,bankssts-lh,entorhinal-lh,fusiform-lh,insula-rh,lingual-lh,parahippocampal-lh,parahippocampal-rh,transversetemporal-rh
+bankssts-lh,0.75,0.0,0.0,0.0,0.0,0.0,0.0,0.25
+entorhinal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+fusiform-lh,0.0,0.0,0.48717948717948717,0.0,0.0,0.0,0.0,0.5128205128205128
+insula-rh,0.0,0.0,0.0,0.4666666666666667,0.0,0.0,0.0,0.5333333333333333
+lingual-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.8714285714285714,0.12857142857142856
+transversetemporal-rh,0.0,0.0,0.14652014652014653,0.029304029304029304,0.0,0.0,0.047619047619047616,0.7765567765567766
