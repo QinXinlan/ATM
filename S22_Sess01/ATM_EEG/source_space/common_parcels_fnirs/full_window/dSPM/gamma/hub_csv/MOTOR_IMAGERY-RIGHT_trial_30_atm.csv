@@ -1,0 +1,9 @@
+,inferiortemporal-rh,insula-rh,parahippocampal-lh,parahippocampal-rh,parsorbitalis-lh,parsorbitalis-rh,parstriangularis-lh,temporalpole-lh
+inferiortemporal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+insula-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-lh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parsorbitalis-lh,0.0,0.0,0.011235955056179775,0.0,0.8314606741573034,0.0,0.0,0.15730337078651685
+parsorbitalis-rh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+parstriangularis-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+temporalpole-lh,0.0,0.0,0.0,0.0,0.32558139534883723,0.0,0.0,0.6744186046511628
