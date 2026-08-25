@@ -1,0 +1,9 @@
+,bankssts-lh,caudalmiddlefrontal-rh,frontalpole-lh,frontalpole-rh,insula-rh,pericalcarine-lh,rostralanteriorcingulate-lh,rostralanteriorcingulate-rh
+bankssts-lh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caudalmiddlefrontal-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,0.0,0.72,0.0,0.0,0.0,0.28,0.0
+frontalpole-rh,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+insula-rh,0.0,0.0,0.0,0.0,0.6142857142857143,0.0,0.0,0.38571428571428573
+pericalcarine-lh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+rostralanteriorcingulate-lh,0.0,0.0,0.04,0.0,0.016,0.0,0.624,0.32
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.0,0.19078947368421054,0.0,0.23684210526315788,0.5723684210526315
