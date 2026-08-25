@@ -1,0 +1,9 @@
+,caudalanteriorcingulate-lh,frontalpole-lh,frontalpole-rh,medialorbitofrontal-lh,parahippocampal-lh,parahippocampal-rh,rostralanteriorcingulate-rh,temporalpole-rh
+caudalanteriorcingulate-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medialorbitofrontal-lh,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+parahippocampal-lh,0.0,0.0,0.0,0.0,0.48360655737704916,0.26229508196721313,0.0,0.2540983606557377
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.3,0.41818181818181815,0.0,0.2818181818181818
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5
+temporalpole-rh,0.0,0.0,0.0,0.0,0.13924050632911392,0.13924050632911392,0.11392405063291139,0.6075949367088608
