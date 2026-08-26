@@ -1,0 +1,9 @@
+,isthmuscingulate-rh,parahippocampal-lh,parsorbitalis-rh,pericalcarine-rh,rostralanteriorcingulate-rh,temporalpole-lh,temporalpole-rh,transversetemporal-rh
+isthmuscingulate-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+parsorbitalis-rh,0.0,0.0,0.7586206896551724,0.0,0.034482758620689655,0.0,0.20689655172413793,0.0
+pericalcarine-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.0,0.7928571428571428,0.0,0.15,0.05714285714285714
+temporalpole-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+temporalpole-rh,0.0,0.0,0.058823529411764705,0.0,0.21568627450980393,0.0,0.5980392156862745,0.12745098039215685
+transversetemporal-rh,0.0,0.0,0.0,0.0,0.0975609756097561,0.0,0.21951219512195122,0.6829268292682927

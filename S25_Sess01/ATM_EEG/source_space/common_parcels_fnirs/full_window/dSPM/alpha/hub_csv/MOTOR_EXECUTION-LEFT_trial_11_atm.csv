@@ -1,0 +1,9 @@
+,bankssts-rh,frontalpole-lh,isthmuscingulate-rh,lingual-lh,parahippocampal-lh,parahippocampal-rh,rostralanteriorcingulate-lh,rostralanteriorcingulate-rh
+bankssts-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+isthmuscingulate-rh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+lingual-lh,0.0,0.0,0.0,0.35555555555555557,0.37777777777777777,0.0,0.08888888888888889,0.17777777777777778
+parahippocampal-lh,0.0,0.0,0.0,0.272,0.44,0.0,0.136,0.152
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+rostralanteriorcingulate-lh,0.0,0.0,0.0,0.09174311926605505,0.1743119266055046,0.0,0.5963302752293578,0.13761467889908258
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.15306122448979592,0.17346938775510204,0.0,0.11224489795918367,0.5612244897959183

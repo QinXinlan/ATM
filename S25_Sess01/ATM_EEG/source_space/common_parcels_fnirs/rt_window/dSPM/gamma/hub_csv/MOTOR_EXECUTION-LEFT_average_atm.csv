@@ -1,0 +1,9 @@
+,inferiortemporal-rh,lateraloccipital-rh,lingual-lh,parahippocampal-rh,parsopercularis-lh,parsorbitalis-rh,parstriangularis-rh,rostralanteriorcingulate-rh
+inferiortemporal-rh,0.4482758620689655,0.0,0.0,0.4827586206896552,0.0,0.0,0.0,0.06896551724137931
+lateraloccipital-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+lingual-lh,0.0,0.0,0.8421052631578947,0.0,0.0,0.0,0.0,0.15789473684210525
+parahippocampal-rh,0.4482758620689655,0.0,0.0,0.4827586206896552,0.0,0.0,0.0,0.06896551724137931
+parsopercularis-lh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+parsorbitalis-rh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+parstriangularis-rh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+rostralanteriorcingulate-rh,0.07692307692307693,0.0,0.19230769230769232,0.07692307692307693,0.0,0.0,0.0,0.6538461538461539
