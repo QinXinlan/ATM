@@ -1,0 +1,9 @@
+,bankssts-lh,bankssts-rh,frontalpole-lh,frontalpole-rh,fusiform-rh,lateraloccipital-lh,parahippocampal-rh,transversetemporal-rh
+bankssts-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bankssts-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+fusiform-rh,0.0,0.0,0.0,0.0,0.5803108808290155,0.010362694300518135,0.40932642487046633,0.0
+lateraloccipital-lh,0.0,0.0,0.0,0.0,0.05714285714285714,0.9428571428571428,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.46814404432132967,0.0,0.5318559556786704,0.0
+transversetemporal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
