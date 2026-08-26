@@ -1,0 +1,9 @@
+,bankssts-rh,caudalanteriorcingulate-lh,frontalpole-lh,frontalpole-rh,medialorbitofrontal-lh,medialorbitofrontal-rh,rostralanteriorcingulate-lh,rostralanteriorcingulate-rh
+bankssts-rh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caudalanteriorcingulate-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,0.0,0.5195822454308094,0.0,0.057441253263707574,0.27154046997389036,0.0,0.1514360313315927
+frontalpole-rh,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+medialorbitofrontal-lh,0.0,0.0,0.05263157894736842,0.0,0.5368421052631579,0.0,0.4105263157894737,0.0
+medialorbitofrontal-rh,0.0,0.0,0.20703125,0.0,0.0,0.51953125,0.0,0.2734375
+rostralanteriorcingulate-lh,0.0,0.0,0.0,0.0,0.42191780821917807,0.0,0.5780821917808219,0.0
+rostralanteriorcingulate-rh,0.0,0.0,0.15789473684210525,0.0,0.0,0.3736842105263158,0.0,0.46842105263157896
