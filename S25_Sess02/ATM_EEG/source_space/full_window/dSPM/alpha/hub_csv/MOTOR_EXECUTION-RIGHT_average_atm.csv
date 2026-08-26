@@ -1,0 +1,9 @@
+,cuneus-lh,cuneus-rh,entorhinal-lh,frontalpole-lh,fusiform-lh,inferiortemporal-rh,isthmuscingulate-rh,parahippocampal-rh
+cuneus-lh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cuneus-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+entorhinal-lh,0.0,0.0,0.9456521739130435,0.0,0.05434782608695652,0.0,0.0,0.0
+frontalpole-lh,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+fusiform-lh,0.0,0.0,0.12857142857142856,0.0,0.8714285714285714,0.0,0.0,0.0
+inferiortemporal-rh,0.0,0.0,0.0,0.0,0.0,0.7916666666666666,0.0,0.20833333333333334
+isthmuscingulate-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.7530864197530864,0.24691358024691357
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.1391304347826087,0.20869565217391303,0.6521739130434783

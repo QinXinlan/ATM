@@ -1,0 +1,9 @@
+,caudalanteriorcingulate-lh,caudalanteriorcingulate-rh,cuneus-rh,frontalpole-lh,fusiform-lh,lateraloccipital-lh,parahippocampal-rh,pericalcarine-lh
+caudalanteriorcingulate-lh,0.5689655172413793,0.35344827586206895,0.0,0.0,0.0,0.0,0.0,0.07758620689655173
+caudalanteriorcingulate-rh,0.5,0.47560975609756095,0.0,0.0,0.0,0.0,0.0,0.024390243902439025
+cuneus-rh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+fusiform-lh,0.0,0.0,0.0,0.0,0.8297872340425532,0.1702127659574468,0.0,0.0
+lateraloccipital-lh,0.0,0.0,0.0,0.0,0.3137254901960784,0.6862745098039216,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+pericalcarine-lh,0.12280701754385964,0.0,0.0,0.0,0.0,0.0,0.0,0.8771929824561403
