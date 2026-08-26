@@ -1,0 +1,9 @@
+,entorhinal-lh,fusiform-lh,inferiortemporal-lh,lingual-lh,middletemporal-lh,parahippocampal-lh,rostralanteriorcingulate-rh,temporalpole-lh
+entorhinal-lh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+fusiform-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+inferiortemporal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lingual-lh,0.0,0.0,0.0,0.53125,0.0,0.46875,0.0,0.0
+middletemporal-lh,0.0,0.0,0.0,0.0,0.5416666666666666,0.0,0.4583333333333333,0.0
+parahippocampal-lh,0.0,0.0,0.0,0.4594594594594595,0.0,0.5405405405405406,0.0,0.0
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.0,0.28205128205128205,0.0,0.717948717948718,0.0
+temporalpole-lh,0.10526315789473684,0.0,0.0,0.0,0.0,0.0,0.0,0.8947368421052632
