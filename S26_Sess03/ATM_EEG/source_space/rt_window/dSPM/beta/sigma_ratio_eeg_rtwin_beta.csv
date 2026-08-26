@@ -1,0 +1,13 @@
+subject,session,condition,sigma_ratio,sigma_eig,ci_low,ci_high,ci_method,state,window
+S26,Sess03,MOTOR_EXECUTION-LEFT,,0.0,,,bootstrap,subcritical,rtwin_beta
+S26,Sess03,MOTOR_EXECUTION-RIGHT,,0.0,,,bootstrap,subcritical,rtwin_beta
+S26,Sess03,MOTOR_IMAGERY-LEFT,0.0,0.0,,,bootstrap,subcritical,rtwin_beta
+S26,Sess03,MOTOR_IMAGERY-RIGHT,,0.0,,,bootstrap,subcritical,rtwin_beta
+S26,Sess03,MOTOR_EXECUTION,,0.0,,,bootstrap,subcritical,rtwin_beta
+S26,Sess03,MOTOR_IMAGERY,0.0,0.0,,,bootstrap,subcritical,rtwin_beta
+S26,Sess03,LEFT,0.0,0.0,,,bootstrap,subcritical,rtwin_beta
+S26,Sess03,RIGHT,,0.0,,,bootstrap,subcritical,rtwin_beta
+S26,Sess03,LEFT_vs_RIGHT,,0.0,,,bootstrap,delta,rtwin_beta
+S26,Sess03,IMAGERY_vs_EXECUTION,,0.0,,,bootstrap,delta,rtwin_beta
+S26,Sess03,ME_LEFT_vs_ME_RIGHT,,0.0,,,bootstrap,delta,rtwin_beta
+S26,Sess03,MI_LEFT_vs_MI_RIGHT,,0.0,,,bootstrap,delta,rtwin_beta

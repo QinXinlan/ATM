@@ -1,0 +1,16 @@
+S26 Sess03  |  Band: theta (4-8 Hz)  |  Window: RT WINDOW
+Generated for by-hand recomputation double-checks. Times are seconds; 'absolute' = position in the continuous recording, 'relative' = position relative to the condition trigger.
+----------------------------------------------------------------------
+MOTOR_EXECUTION=LEFT: relative window [0.000s -> 0.009s] (0.01s), n_trials=1
+    trial 1: absolute window [26.014s -> 26.023s], trigger t0=26.014s
+MOTOR_EXECUTION=RIGHT: relative window [0.000s -> 0.009s] (0.01s), n_trials=1
+    trial 1: absolute window [35.349s -> 35.358s], trigger t0=35.349s
+MOTOR_IMAGERY=LEFT: relative window [0.000s -> 0.009s] (0.01s), n_trials=6
+    trial 2: absolute window [21.011s -> 21.020s], trigger t0=21.011s
+    trial 3: absolute window [84.537s -> 84.546s], trigger t0=84.537s
+    trial 4: absolute window [127.219s -> 127.228s], trigger t0=127.219s
+    trial 5: absolute window [159.236s -> 159.245s], trigger t0=159.236s
+    trial 6: absolute window [180.579s -> 180.588s], trigger t0=180.579s
+    trial 7: absolute window [201.919s -> 201.928s], trigger t0=201.919s
+MOTOR_IMAGERY=RIGHT: relative window [0.000s -> 0.009s] (0.01s), n_trials=1
+    trial 2: absolute window [31.181s -> 31.190s], trigger t0=31.181s

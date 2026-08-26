@@ -1,0 +1,13 @@
+subject,session,condition,sigma_ratio,sigma_eig,ci_low,ci_high,ci_method,state,window
+S26,Sess03,MOTOR_EXECUTION-LEFT,,0.0,,,bootstrap,subcritical,hrfwin_lf_mayer
+S26,Sess03,MOTOR_EXECUTION-RIGHT,,0.0,,,bootstrap,subcritical,hrfwin_lf_mayer
+S26,Sess03,MOTOR_IMAGERY-LEFT,0.9973389355742297,1.0000000000000016,0.8050210084033613,1.2337622549019607,bootstrap,critical,hrfwin_lf_mayer
+S26,Sess03,MOTOR_IMAGERY-RIGHT,0.9191176470588235,1.0,0.8344975490196079,0.9791666666666666,bootstrap,subcritical,hrfwin_lf_mayer
+S26,Sess03,MOTOR_EXECUTION,,0.0,,,bootstrap,subcritical,hrfwin_lf_mayer
+S26,Sess03,MOTOR_IMAGERY,0.9582282913165265,1.0000000000000009,0.8197592787114847,1.1064644607843137,bootstrap,critical,hrfwin_lf_mayer
+S26,Sess03,LEFT,0.9973389355742297,0.5000000000000008,0.8050210084033613,1.2337622549019607,bootstrap,subcritical,hrfwin_lf_mayer
+S26,Sess03,RIGHT,0.9191176470588235,0.5,0.8344975490196079,0.9791666666666666,bootstrap,subcritical,hrfwin_lf_mayer
+S26,Sess03,LEFT_vs_RIGHT,0.07822128851540622,0.0,-0.1741456582633053,0.39926470588235274,bootstrap,delta,hrfwin_lf_mayer
+S26,Sess03,IMAGERY_vs_EXECUTION,,0.0,,,bootstrap,delta,hrfwin_lf_mayer
+S26,Sess03,ME_LEFT_vs_ME_RIGHT,,0.0,,,bootstrap,delta,hrfwin_lf_mayer
+S26,Sess03,MI_LEFT_vs_MI_RIGHT,0.07822128851540622,0.0,-0.1741456582633053,0.39926470588235274,bootstrap,delta,hrfwin_lf_mayer

@@ -1,0 +1,13 @@
+subject,session,condition,sigma_ratio,sigma_eig,ci_low,ci_high,ci_method,state,window
+S26,Sess03,MOTOR_EXECUTION-LEFT,0.6555555555555556,1.0,,,bootstrap,subcritical,hrfwin_broadband
+S26,Sess03,MOTOR_EXECUTION-RIGHT,0.5,1.0,,,bootstrap,subcritical,hrfwin_broadband
+S26,Sess03,MOTOR_IMAGERY-LEFT,1.0517857142857143,0.9999999999999989,0.9448660714285715,1.1521279761904761,bootstrap,supercritical,hrfwin_broadband
+S26,Sess03,MOTOR_IMAGERY-RIGHT,1.0,0.9999999999999998,1.0,1.0,bootstrap,critical,hrfwin_broadband
+S26,Sess03,MOTOR_EXECUTION,0.5777777777777777,1.0,,,bootstrap,subcritical,hrfwin_broadband
+S26,Sess03,MOTOR_IMAGERY,1.0258928571428572,0.9999999999999993,0.9724330357142857,1.076063988095238,bootstrap,supercritical,hrfwin_broadband
+S26,Sess03,LEFT,0.8536706349206349,0.9999999999999994,0.9448660714285715,1.1521279761904761,bootstrap,supercritical,hrfwin_broadband
+S26,Sess03,RIGHT,0.75,0.9999999999999999,1.0,1.0,bootstrap,subcritical,hrfwin_broadband
+S26,Sess03,LEFT_vs_RIGHT,0.10367063492063489,0.0,-0.055133928571428514,0.15212797619047613,bootstrap,delta,hrfwin_broadband
+S26,Sess03,IMAGERY_vs_EXECUTION,0.44811507936507944,0.0,,,bootstrap,delta,hrfwin_broadband
+S26,Sess03,ME_LEFT_vs_ME_RIGHT,0.15555555555555556,0.0,,,bootstrap,delta,hrfwin_broadband
+S26,Sess03,MI_LEFT_vs_MI_RIGHT,0.051785714285714324,0.0,-0.055133928571428514,0.15212797619047613,bootstrap,delta,hrfwin_broadband

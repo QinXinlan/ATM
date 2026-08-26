@@ -1,0 +1,13 @@
+subject,session,condition,sigma_ratio,sigma_eig,ci_low,ci_high,ci_method,state,window
+S26,Sess03,MOTOR_EXECUTION-LEFT,,0.0,,,bootstrap,subcritical,rtwin_broadband
+S26,Sess03,MOTOR_EXECUTION-RIGHT,,0.0,,,bootstrap,subcritical,rtwin_broadband
+S26,Sess03,MOTOR_IMAGERY-LEFT,0.8666666666666667,1.0,0.6666666666666666,1.0,bootstrap,subcritical,rtwin_broadband
+S26,Sess03,MOTOR_IMAGERY-RIGHT,1.0023148148148147,1.0000000000000002,0.9189814814814814,1.0925925925925926,bootstrap,critical,rtwin_broadband
+S26,Sess03,MOTOR_EXECUTION,,0.0,,,bootstrap,subcritical,rtwin_broadband
+S26,Sess03,MOTOR_IMAGERY,0.9344907407407407,1.0,0.792824074074074,1.0462962962962963,bootstrap,subcritical,rtwin_broadband
+S26,Sess03,LEFT,0.8666666666666667,0.5,0.6666666666666666,1.0,bootstrap,subcritical,rtwin_broadband
+S26,Sess03,RIGHT,1.0023148148148147,0.5000000000000001,0.9189814814814814,1.0925925925925926,bootstrap,subcritical,rtwin_broadband
+S26,Sess03,LEFT_vs_RIGHT,-0.13564814814814796,0.0,-0.42592592592592593,0.0810185185185186,bootstrap,delta,rtwin_broadband
+S26,Sess03,IMAGERY_vs_EXECUTION,,0.0,,,bootstrap,delta,rtwin_broadband
+S26,Sess03,ME_LEFT_vs_ME_RIGHT,,0.0,,,bootstrap,delta,rtwin_broadband
+S26,Sess03,MI_LEFT_vs_MI_RIGHT,-0.13564814814814796,0.0,-0.42592592592592593,0.0810185185185186,bootstrap,delta,rtwin_broadband
