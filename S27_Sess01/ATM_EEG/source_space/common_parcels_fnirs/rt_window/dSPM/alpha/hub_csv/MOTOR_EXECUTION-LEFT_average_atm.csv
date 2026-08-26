@@ -1,0 +1,9 @@
+,frontalpole-lh,frontalpole-rh,lateraloccipital-rh,medialorbitofrontal-rh,pericalcarine-rh,posteriorcingulate-lh,rostralanteriorcingulate-rh,temporalpole-rh
+frontalpole-lh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.7619047619047619,0.0,0.23809523809523808,0.0,0.0,0.0,0.0
+lateraloccipital-rh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+medialorbitofrontal-rh,0.0,0.15,0.0,0.525,0.0,0.0,0.325,0.0
+pericalcarine-rh,0.0,0.0,0.0,0.0,0.7619047619047619,0.0,0.0,0.23809523809523808
+posteriorcingulate-lh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.40540540540540543,0.0,0.0,0.5945945945945946,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.35,0.0,0.0,0.65
