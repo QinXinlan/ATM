@@ -1,0 +1,9 @@
+,bankssts-rh,entorhinal-rh,fusiform-rh,inferiortemporal-rh,insula-rh,middletemporal-rh,temporalpole-rh,transversetemporal-rh
+bankssts-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+entorhinal-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+fusiform-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+inferiortemporal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+insula-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+middletemporal-rh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+transversetemporal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
