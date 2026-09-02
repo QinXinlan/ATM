@@ -1,0 +1,9 @@
+,cuneus-lh,cuneus-rh,frontalpole-lh,lateraloccipital-rh,parsorbitalis-lh,parstriangularis-lh,pericalcarine-rh,temporalpole-lh
+cuneus-lh,0.625,0.0,0.0,0.25,0.0,0.0,0.125,0.0
+cuneus-rh,0.0,0.75,0.25,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,0.0967741935483871,0.8064516129032258,0.0,0.0967741935483871,0.0,0.0,0.0
+lateraloccipital-rh,0.36363636363636365,0.0,0.09090909090909091,0.5454545454545454,0.0,0.0,0.0,0.0
+parsorbitalis-lh,0.0,0.0,0.23809523809523808,0.0,0.7142857142857143,0.0,0.0,0.047619047619047616
+parstriangularis-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+pericalcarine-rh,0.6,0.0,0.0,0.0,0.0,0.0,0.4,0.0
+temporalpole-lh,0.0,0.0,0.0,0.0,0.6666666666666666,0.0,0.0,0.3333333333333333

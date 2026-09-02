@@ -1,0 +1,9 @@
+,bankssts-rh,cuneus-rh,entorhinal-rh,inferiortemporal-lh,lateralorbitofrontal-rh,pericalcarine-rh,rostralanteriorcingulate-rh,temporalpole-rh
+bankssts-rh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cuneus-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+entorhinal-rh,0.0,0.0,0.5945945945945946,0.32432432432432434,0.08108108108108109,0.0,0.0,0.0
+inferiortemporal-lh,0.0,0.0,0.36363636363636365,0.6363636363636364,0.0,0.0,0.0,0.0
+lateralorbitofrontal-rh,0.0,0.0,0.1794871794871795,0.05128205128205128,0.46153846153846156,0.0,0.0,0.3076923076923077
+pericalcarine-rh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+temporalpole-rh,0.0,0.0,0.029411764705882353,0.0,0.47058823529411764,0.0,0.0,0.5
