@@ -1,0 +1,9 @@
+,caudalanteriorcingulate-lh,frontalpole-lh,fusiform-lh,isthmuscingulate-rh,lingual-lh,middletemporal-lh,parahippocampal-lh,transversetemporal-lh
+caudalanteriorcingulate-lh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+fusiform-lh,0.0,0.0,0.44642857142857145,0.0,0.16071428571428573,0.0,0.39285714285714285,0.0
+isthmuscingulate-rh,0.0,0.0,0.0,0.875,0.125,0.0,0.0,0.0
+lingual-lh,0.0,0.0,0.1,0.12,0.5,0.0,0.28,0.0
+middletemporal-lh,0.0,0.0,0.03333333333333333,0.0,0.0,0.6,0.0,0.36666666666666664
+parahippocampal-lh,0.0,0.0,0.2857142857142857,0.0,0.2857142857142857,0.0,0.42857142857142855,0.0
+transversetemporal-lh,0.0,0.0,0.0,0.0,0.0,0.3333333333333333,0.0,0.6666666666666666

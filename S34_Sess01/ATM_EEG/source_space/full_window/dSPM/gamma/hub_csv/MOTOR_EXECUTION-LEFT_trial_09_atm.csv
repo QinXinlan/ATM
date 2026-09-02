@@ -1,0 +1,9 @@
+,entorhinal-lh,entorhinal-rh,inferiortemporal-rh,lateralorbitofrontal-lh,medialorbitofrontal-rh,parahippocampal-lh,parahippocampal-rh,transversetemporal-rh
+entorhinal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+entorhinal-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+inferiortemporal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lateralorbitofrontal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+medialorbitofrontal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+transversetemporal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.25,0.75
