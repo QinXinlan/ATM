@@ -1,0 +1,9 @@
+,bankssts-lh,caudalanteriorcingulate-lh,caudalanteriorcingulate-rh,frontalpole-lh,insula-lh,insula-rh,pericalcarine-rh,temporalpole-lh
+bankssts-lh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caudalanteriorcingulate-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caudalanteriorcingulate-rh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,0.0,0.0,0.8421052631578947,0.15789473684210525,0.0,0.0,0.0
+insula-lh,0.0,0.0,0.0,0.2857142857142857,0.7142857142857143,0.0,0.0,0.0
+insula-rh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+pericalcarine-rh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+temporalpole-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
