@@ -1,0 +1,9 @@
+,bankssts-rh,fusiform-lh,insula-lh,insula-rh,isthmuscingulate-rh,parahippocampal-lh,parahippocampal-rh,rostralanteriorcingulate-rh
+bankssts-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+fusiform-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+insula-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+insula-rh,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+isthmuscingulate-rh,0.0,0.0,0.0,0.0,0.413265306122449,0.0,0.23469387755102042,0.3520408163265306
+parahippocampal-lh,0.0,0.0,0.0,0.0,0.0,0.6666666666666666,0.0,0.3333333333333333
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.3700787401574803,0.0,0.36220472440944884,0.2677165354330709
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.0,0.2637795275590551,0.03937007874015748,0.12598425196850394,0.5708661417322834

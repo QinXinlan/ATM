@@ -1,0 +1,9 @@
+,bankssts-rh,caudalanteriorcingulate-lh,caudalanteriorcingulate-rh,fusiform-lh,insula-rh,paracentral-lh,pericalcarine-lh,posteriorcingulate-rh
+bankssts-rh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caudalanteriorcingulate-lh,0.0,0.5656565656565656,0.25252525252525254,0.18181818181818182,0.0,0.0,0.0,0.0
+caudalanteriorcingulate-rh,0.0,0.38461538461538464,0.36923076923076925,0.24615384615384617,0.0,0.0,0.0,0.0
+fusiform-lh,0.0,0.22857142857142856,0.2,0.5714285714285714,0.0,0.0,0.0,0.0
+insula-rh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+paracentral-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+pericalcarine-lh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+posteriorcingulate-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
