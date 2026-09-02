@@ -1,0 +1,9 @@
+,caudalanteriorcingulate-lh,lateraloccipital-rh,lingual-lh,parahippocampal-lh,parahippocampal-rh,parsorbitalis-rh,posteriorcingulate-rh,rostralanteriorcingulate-rh
+caudalanteriorcingulate-lh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lateraloccipital-rh,0.0,0.6956521739130435,0.0,0.0,0.0,0.0,0.0,0.30434782608695654
+lingual-lh,0.0,0.0,0.40425531914893614,0.3617021276595745,0.23404255319148937,0.0,0.0,0.0
+parahippocampal-lh,0.0,0.0,0.3488372093023256,0.37209302325581395,0.27906976744186046,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.21875,0.25,0.53125,0.0,0.0,0.0
+parsorbitalis-rh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+posteriorcingulate-rh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+rostralanteriorcingulate-rh,0.0,0.3548387096774194,0.0,0.0,0.0,0.0,0.0,0.6451612903225806
