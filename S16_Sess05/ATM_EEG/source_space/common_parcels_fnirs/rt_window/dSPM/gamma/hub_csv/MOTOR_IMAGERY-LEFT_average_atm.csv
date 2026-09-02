@@ -1,0 +1,9 @@
+,cuneus-lh,entorhinal-lh,fusiform-lh,isthmuscingulate-lh,isthmuscingulate-rh,parsopercularis-lh,pericalcarine-lh,transversetemporal-rh
+cuneus-lh,0.3870967741935484,0.0,0.0,0.0967741935483871,0.3870967741935484,0.0,0.0,0.12903225806451613
+entorhinal-lh,0.0,0.5625,0.4375,0.0,0.0,0.0,0.0,0.0
+fusiform-lh,0.0,0.5263157894736842,0.47368421052631576,0.0,0.0,0.0,0.0,0.0
+isthmuscingulate-lh,0.0625,0.0,0.0,0.875,0.0625,0.0,0.0,0.0
+isthmuscingulate-rh,0.3103448275862069,0.0,0.0,0.1724137931034483,0.4482758620689655,0.0,0.0,0.06896551724137931
+parsopercularis-lh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+pericalcarine-lh,0.07692307692307693,0.0,0.0,0.0,0.0,0.0,0.9230769230769231,0.0
+transversetemporal-rh,0.24,0.0,0.0,0.0,0.16,0.0,0.0,0.6

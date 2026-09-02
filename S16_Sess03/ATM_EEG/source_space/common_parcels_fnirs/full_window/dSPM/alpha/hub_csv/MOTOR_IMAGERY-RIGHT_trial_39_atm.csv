@@ -1,0 +1,9 @@
+,bankssts-rh,frontalpole-lh,frontalpole-rh,fusiform-rh,inferiortemporal-rh,isthmuscingulate-rh,lingual-rh,parahippocampal-rh
+bankssts-rh,0.8571428571428571,0.0,0.0,0.0,0.0,0.0,0.14285714285714285,0.0
+frontalpole-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+fusiform-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+inferiortemporal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+isthmuscingulate-rh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+lingual-rh,0.12698412698412698,0.0,0.0,0.0,0.0,0.0,0.8412698412698413,0.031746031746031744
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.5

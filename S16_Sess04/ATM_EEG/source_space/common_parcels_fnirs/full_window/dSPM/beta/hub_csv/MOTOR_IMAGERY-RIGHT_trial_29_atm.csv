@@ -1,0 +1,9 @@
+,bankssts-rh,entorhinal-lh,frontalpole-lh,frontalpole-rh,fusiform-lh,parahippocampal-lh,parahippocampal-rh,temporalpole-rh
+bankssts-rh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+entorhinal-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,0.0,0.625,0.375,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,0.24347826086956523,0.6956521739130435,0.0,0.0,0.0,0.06086956521739131
+fusiform-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-lh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+temporalpole-rh,0.0,0.0,0.0,0.2571428571428571,0.0,0.0,0.0,0.7428571428571429
