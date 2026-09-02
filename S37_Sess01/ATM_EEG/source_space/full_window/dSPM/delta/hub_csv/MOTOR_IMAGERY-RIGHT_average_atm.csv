@@ -1,0 +1,9 @@
+,bankssts-rh,cuneus-lh,frontalpole-rh,insula-rh,isthmuscingulate-rh,medialorbitofrontal-rh,parahippocampal-rh,rostralanteriorcingulate-lh
+bankssts-rh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cuneus-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,0.7078313253012049,0.0,0.0,0.2921686746987952,0.0,0.0
+insula-rh,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+isthmuscingulate-rh,0.0,0.0,0.0,0.0,0.84,0.0,0.16,0.0
+medialorbitofrontal-rh,0.0,0.0,0.375968992248062,0.0,0.0,0.624031007751938,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.23809523809523808,0.0,0.7619047619047619,0.0
+rostralanteriorcingulate-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

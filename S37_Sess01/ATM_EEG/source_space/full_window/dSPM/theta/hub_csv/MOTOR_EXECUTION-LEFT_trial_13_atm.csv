@@ -1,0 +1,9 @@
+,insula-rh,isthmuscingulate-rh,lateraloccipital-rh,parahippocampal-rh,pericalcarine-rh,superiorparietal-lh,temporalpole-rh,transversetemporal-rh
+insula-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+isthmuscingulate-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+lateraloccipital-rh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+pericalcarine-rh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+superiorparietal-lh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+transversetemporal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

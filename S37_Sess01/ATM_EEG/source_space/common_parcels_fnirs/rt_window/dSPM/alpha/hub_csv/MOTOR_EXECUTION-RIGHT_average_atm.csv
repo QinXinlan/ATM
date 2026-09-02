@@ -1,0 +1,9 @@
+,caudalanteriorcingulate-lh,caudalmiddlefrontal-lh,cuneus-rh,entorhinal-rh,frontalpole-lh,lateraloccipital-lh,posteriorcingulate-lh,temporalpole-rh
+caudalanteriorcingulate-lh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+caudalmiddlefrontal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cuneus-rh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+entorhinal-rh,0.0,0.0,0.0,0.359375,0.3125,0.328125,0.0,0.0
+frontalpole-lh,0.0,0.0,0.0,0.3283582089552239,0.3283582089552239,0.34328358208955223,0.0,0.0
+lateraloccipital-lh,0.0,0.0,0.0,0.323943661971831,0.323943661971831,0.352112676056338,0.0,0.0
+posteriorcingulate-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.5714285714285714,0.42857142857142855
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.5217391304347826,0.4782608695652174

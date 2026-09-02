@@ -1,0 +1,9 @@
+,frontalpole-lh,frontalpole-rh,parahippocampal-lh,parahippocampal-rh,parsorbitalis-rh,temporalpole-lh,temporalpole-rh,transversetemporal-rh
+frontalpole-lh,0.7894736842105263,0.21052631578947367,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.4473684210526316,0.5526315789473685,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-lh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parsorbitalis-rh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+temporalpole-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+transversetemporal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
