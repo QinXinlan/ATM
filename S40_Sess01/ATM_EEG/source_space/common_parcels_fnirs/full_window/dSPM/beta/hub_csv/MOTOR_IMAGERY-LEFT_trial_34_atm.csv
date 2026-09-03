@@ -1,0 +1,9 @@
+,entorhinal-lh,frontalpole-lh,frontalpole-rh,pericalcarine-rh,posteriorcingulate-lh,posteriorcingulate-rh,temporalpole-lh,temporalpole-rh
+entorhinal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,0.8695652173913043,0.13043478260869565,0.0,0.0,0.0,0.0
+pericalcarine-rh,0.0,0.0,0.5555555555555556,0.4444444444444444,0.0,0.0,0.0,0.0
+posteriorcingulate-lh,0.0,0.0,0.0,0.0,0.4782608695652174,0.5217391304347826,0.0,0.0
+posteriorcingulate-rh,0.0,0.0,0.0,0.0,0.20754716981132076,0.7358490566037735,0.05660377358490566,0.0
+temporalpole-lh,0.0,0.0,0.0,0.0,0.0,0.024390243902439025,0.975609756097561,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

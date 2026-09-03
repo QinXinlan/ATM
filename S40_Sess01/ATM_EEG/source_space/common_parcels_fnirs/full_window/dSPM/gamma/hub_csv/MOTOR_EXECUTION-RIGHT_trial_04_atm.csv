@@ -1,0 +1,9 @@
+,entorhinal-rh,frontalpole-lh,parahippocampal-rh,parsorbitalis-rh,parstriangularis-rh,posteriorcingulate-lh,temporalpole-lh,temporalpole-rh
+entorhinal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.5,0.0,0.0,0.0,0.0,0.5
+parsorbitalis-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parstriangularis-rh,0.0,0.0,0.0,0.0,0.6206896551724138,0.0,0.3793103448275862,0.0
+posteriorcingulate-lh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+temporalpole-lh,0.0,0.0,0.0,0.0,0.18478260869565216,0.0,0.717391304347826,0.09782608695652174
+temporalpole-rh,0.0,0.0,0.12903225806451613,0.0,0.0,0.0,0.16129032258064516,0.7096774193548387
