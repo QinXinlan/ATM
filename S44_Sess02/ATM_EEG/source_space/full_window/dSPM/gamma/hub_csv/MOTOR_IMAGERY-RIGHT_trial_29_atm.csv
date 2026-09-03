@@ -1,0 +1,9 @@
+,caudalmiddlefrontal-lh,fusiform-rh,inferiortemporal-rh,isthmuscingulate-lh,lingual-rh,middletemporal-rh,parahippocampal-rh,parsorbitalis-lh
+caudalmiddlefrontal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+fusiform-rh,0.0,0.875,0.0,0.0,0.0,0.0,0.125,0.0
+inferiortemporal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+isthmuscingulate-lh,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+lingual-rh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+middletemporal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.125,0.0,0.0,0.875,0.0
+parsorbitalis-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

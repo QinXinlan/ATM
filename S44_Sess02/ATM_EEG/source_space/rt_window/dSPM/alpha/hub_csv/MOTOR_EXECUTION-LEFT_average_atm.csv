@@ -1,0 +1,9 @@
+,cuneus-lh,cuneus-rh,inferiortemporal-rh,isthmuscingulate-lh,lateraloccipital-rh,paracentral-lh,temporalpole-lh,temporalpole-rh
+cuneus-lh,0.8372093023255814,0.0,0.0,0.0,0.0,0.0,0.16279069767441862,0.0
+cuneus-rh,0.0,0.7272727272727273,0.0,0.2545454545454545,0.0,0.0,0.01818181818181818,0.0
+inferiortemporal-rh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+isthmuscingulate-lh,0.0,0.3076923076923077,0.0,0.6923076923076923,0.0,0.0,0.0,0.0
+lateraloccipital-rh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+paracentral-lh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+temporalpole-lh,0.19148936170212766,0.0,0.0,0.0,0.0,0.0,0.8085106382978723,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

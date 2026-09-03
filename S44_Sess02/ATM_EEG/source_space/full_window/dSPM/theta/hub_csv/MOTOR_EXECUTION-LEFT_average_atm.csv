@@ -1,0 +1,9 @@
+,bankssts-rh,frontalpole-lh,frontalpole-rh,inferiorparietal-rh,isthmuscingulate-rh,paracentral-lh,temporalpole-lh,temporalpole-rh
+bankssts-rh,0.8823529411764706,0.0,0.0,0.0,0.0,0.11764705882352941,0.0,0.0
+frontalpole-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,0.9545454545454546,0.0,0.0,0.0,0.045454545454545456,0.0
+inferiorparietal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+isthmuscingulate-rh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+paracentral-lh,0.19230769230769232,0.0,0.0,0.0,0.0,0.8076923076923077,0.0,0.0
+temporalpole-lh,0.0,0.0,0.04,0.0,0.0,0.0,0.96,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
