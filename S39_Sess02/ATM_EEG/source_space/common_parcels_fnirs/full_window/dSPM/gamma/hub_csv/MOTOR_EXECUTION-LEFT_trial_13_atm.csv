@@ -1,0 +1,9 @@
+,entorhinal-lh,frontalpole-lh,frontalpole-rh,isthmuscingulate-rh,pericalcarine-lh,pericalcarine-rh,rostralanteriorcingulate-rh,temporalpole-lh
+entorhinal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+isthmuscingulate-rh,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+pericalcarine-lh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+pericalcarine-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+temporalpole-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,9 @@
+,bankssts-rh,frontalpole-rh,insula-rh,isthmuscingulate-rh,parahippocampal-rh,pericalcarine-lh,rostralanteriorcingulate-lh,temporalpole-rh
+bankssts-rh,0.9140625,0.0,0.0,0.0,0.0,0.0,0.0859375,0.0
+frontalpole-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+insula-rh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+isthmuscingulate-rh,0.0,0.0,0.0,0.8407079646017699,0.1592920353982301,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.2191780821917808,0.7808219178082192,0.0,0.0,0.0
+pericalcarine-lh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+rostralanteriorcingulate-lh,0.09923664122137404,0.0,0.0,0.0,0.0,0.0,0.9007633587786259,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

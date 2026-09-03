@@ -1,0 +1,9 @@
+,frontalpole-lh,frontalpole-rh,insula-rh,isthmuscingulate-rh,parahippocampal-rh,rostralanteriorcingulate-lh,rostralanteriorcingulate-rh,temporalpole-rh
+frontalpole-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+insula-rh,0.0,0.0,0.43302180685358255,0.23052959501557632,0.3364485981308411,0.0,0.0,0.0
+isthmuscingulate-rh,0.0,0.0,0.21652421652421652,0.42450142450142453,0.358974358974359,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.27450980392156865,0.29901960784313725,0.4264705882352941,0.0,0.0,0.0
+rostralanteriorcingulate-lh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

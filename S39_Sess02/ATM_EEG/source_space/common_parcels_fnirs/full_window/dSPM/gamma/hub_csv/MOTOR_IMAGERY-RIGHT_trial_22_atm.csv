@@ -1,0 +1,9 @@
+,cuneus-lh,frontalpole-rh,lateraloccipital-lh,parahippocampal-lh,parsorbitalis-lh,pericalcarine-lh,pericalcarine-rh,temporalpole-lh
+cuneus-lh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.9761904761904762,0.0,0.0,0.0,0.0,0.0,0.023809523809523808
+lateraloccipital-lh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parsorbitalis-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+pericalcarine-lh,0.0,0.0,0.0,0.0,0.0,0.4444444444444444,0.5555555555555556,0.0
+pericalcarine-rh,0.011363636363636364,0.0,0.0,0.0,0.0,0.045454545454545456,0.9318181818181818,0.011363636363636364
+temporalpole-lh,0.0,0.03896103896103896,0.0,0.0,0.0,0.0,0.03896103896103896,0.922077922077922
