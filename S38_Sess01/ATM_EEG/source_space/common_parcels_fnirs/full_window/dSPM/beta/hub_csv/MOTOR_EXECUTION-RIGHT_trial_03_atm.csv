@@ -1,0 +1,9 @@
+,bankssts-lh,frontalpole-lh,frontalpole-rh,parahippocampal-rh,parsorbitalis-rh,temporalpole-lh,temporalpole-rh,transversetemporal-rh
+bankssts-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parsorbitalis-rh,0.0,0.0,0.0,0.0,0.5892857142857143,0.0,0.25,0.16071428571428573
+temporalpole-lh,0.0,0.0,0.0,0.0,0.0,0.8709677419354839,0.0,0.12903225806451613
+temporalpole-rh,0.0,0.0,0.0,0.0,0.2696629213483146,0.0,0.4943820224719101,0.23595505617977527
+transversetemporal-rh,0.0,0.0,0.0,0.0,0.18691588785046728,0.018691588785046728,0.2336448598130841,0.5607476635514018
