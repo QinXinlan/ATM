@@ -1,0 +1,9 @@
+,caudalanteriorcingulate-lh,cuneus-lh,lateraloccipital-lh,paracentral-rh,pericalcarine-lh,temporalpole-lh,temporalpole-rh,transversetemporal-lh
+caudalanteriorcingulate-lh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+cuneus-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+lateraloccipital-lh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+paracentral-rh,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+pericalcarine-lh,0.0,0.0,0.0,0.0,0.56,0.38,0.0,0.06
+temporalpole-lh,0.0,0.0,0.0,0.0,0.5135135135135135,0.4864864864864865,0.0,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+transversetemporal-lh,0.0,0.0,0.0,0.0,0.029411764705882353,0.0,0.0,0.9705882352941176

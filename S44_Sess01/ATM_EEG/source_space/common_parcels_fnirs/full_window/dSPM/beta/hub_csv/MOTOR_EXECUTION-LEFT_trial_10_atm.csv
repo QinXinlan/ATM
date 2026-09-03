@@ -1,0 +1,9 @@
+,frontalpole-lh,frontalpole-rh,medialorbitofrontal-lh,parahippocampal-rh,parsorbitalis-rh,rostralanteriorcingulate-rh,temporalpole-lh,temporalpole-rh
+frontalpole-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+medialorbitofrontal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parsorbitalis-rh,0.0,0.0,0.0,0.0,0.5882352941176471,0.0,0.0,0.4117647058823529
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.0,0.0,0.6875,0.0,0.3125
+temporalpole-lh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.09473684210526316,0.12631578947368421,0.0,0.7789473684210526
