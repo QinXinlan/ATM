@@ -1,0 +1,9 @@
+,bankssts-lh,entorhinal-rh,frontalpole-lh,insula-rh,paracentral-lh,parahippocampal-rh,pericalcarine-lh,temporalpole-rh
+bankssts-lh,0.6666666666666666,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0
+entorhinal-rh,0.0,0.7,0.0,0.0,0.0,0.3,0.0,0.0
+frontalpole-lh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+insula-rh,0.0,0.0,0.0,0.625,0.0,0.0,0.0,0.375
+paracentral-lh,0.5454545454545454,0.0,0.0,0.0,0.45454545454545453,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.25,0.0,0.0,0.0,0.75,0.0,0.0
+pericalcarine-lh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+temporalpole-rh,0.0,0.0,0.0,0.2631578947368421,0.0,0.0,0.0,0.7368421052631579
