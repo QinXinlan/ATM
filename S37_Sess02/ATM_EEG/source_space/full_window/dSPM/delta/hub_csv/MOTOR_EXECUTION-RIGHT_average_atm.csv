@@ -1,0 +1,9 @@
+,frontalpole-lh,frontalpole-rh,isthmuscingulate-rh,parahippocampal-rh,pericalcarine-lh,pericalcarine-rh,rostralanteriorcingulate-lh,rostralanteriorcingulate-rh
+frontalpole-lh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+isthmuscingulate-rh,0.0,0.0,0.3917525773195876,0.36082474226804123,0.0,0.24742268041237114,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.36363636363636365,0.37373737373737376,0.0,0.26262626262626265,0.0,0.0
+pericalcarine-lh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+pericalcarine-rh,0.0,0.0,0.2840909090909091,0.3068181818181818,0.0,0.4090909090909091,0.0,0.0
+rostralanteriorcingulate-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.515625,0.484375
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.3855421686746988,0.6144578313253012

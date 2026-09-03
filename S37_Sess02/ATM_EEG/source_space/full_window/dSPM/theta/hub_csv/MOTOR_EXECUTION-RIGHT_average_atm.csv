@@ -1,0 +1,9 @@
+,fusiform-lh,isthmuscingulate-rh,lateraloccipital-lh,parahippocampal-rh,pericalcarine-lh,pericalcarine-rh,rostralanteriorcingulate-lh,rostralanteriorcingulate-rh
+fusiform-lh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+isthmuscingulate-rh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+lateraloccipital-lh,0.0,0.0,0.5979381443298969,0.0,0.4020618556701031,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.7341772151898734,0.0,0.26582278481012656,0.0,0.0
+pericalcarine-lh,0.0,0.0,0.5064935064935064,0.0,0.4935064935064935,0.0,0.0,0.0
+pericalcarine-rh,0.0,0.0,0.0,0.24509803921568626,0.0,0.7254901960784313,0.029411764705882353,0.0
+rostralanteriorcingulate-lh,0.0,0.0,0.0,0.0,0.0,0.06666666666666667,0.9333333333333333,0.0
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
