@@ -1,0 +1,9 @@
+,inferiorparietal-rh,parsopercularis-lh,parstriangularis-rh,rostralmiddlefrontal-rh,superiorfrontal-rh,superiortemporal-lh,supramarginal-lh,supramarginal-rh
+inferiorparietal-rh,0.9142857142857143,0.0,0.0,0.08571428571428572,0.0,0.0,0.0,0.0
+parsopercularis-lh,0.0,0.8,0.0,0.0,0.0,0.2,0.0,0.0
+parstriangularis-rh,0.0,0.0,0.8461538461538461,0.0,0.0,0.05128205128205128,0.10256410256410256,0.0
+rostralmiddlefrontal-rh,0.05,0.0,0.0,0.95,0.0,0.0,0.0,0.0
+superiorfrontal-rh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+superiortemporal-lh,0.0,0.1111111111111111,0.05555555555555555,0.0,0.0,0.5740740740740741,0.0,0.25925925925925924
+supramarginal-lh,0.0,0.0,0.23076923076923078,0.0,0.0,0.0,0.7692307692307693,0.0
+supramarginal-rh,0.0,0.0,0.0,0.0,0.0,0.5,0.0,0.5

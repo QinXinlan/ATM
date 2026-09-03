@@ -1,0 +1,9 @@
+,entorhinal-lh,frontalpole-lh,frontalpole-rh,lateralorbitofrontal-rh,parsorbitalis-rh,rostralanteriorcingulate-rh,temporalpole-lh,temporalpole-rh
+entorhinal-lh,0.6637931034482759,0.0,0.0,0.0,0.0,0.0,0.33620689655172414,0.0
+frontalpole-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+lateralorbitofrontal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parsorbitalis-rh,0.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+temporalpole-lh,0.32954545454545453,0.0,0.0,0.0,0.0,0.0,0.6704545454545454,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

@@ -1,0 +1,9 @@
+,frontalpole-lh,frontalpole-rh,lateralorbitofrontal-lh,parahippocampal-rh,parsorbitalis-lh,rostralanteriorcingulate-lh,rostralanteriorcingulate-rh,rostralmiddlefrontal-lh
+frontalpole-lh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.4528301886792453,0.0,0.0,0.20754716981132076,0.33962264150943394,0.0,0.0
+lateralorbitofrontal-lh,0.0,0.0,0.7307692307692307,0.2692307692307692,0.0,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.05,0.95,0.0,0.0,0.0,0.0
+parsorbitalis-lh,0.0,0.34375,0.0,0.0,0.328125,0.328125,0.0,0.0
+rostralanteriorcingulate-lh,0.0,0.3063063063063063,0.0,0.0,0.17117117117117117,0.5045045045045045,0.0,0.018018018018018018
+rostralanteriorcingulate-rh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+rostralmiddlefrontal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
