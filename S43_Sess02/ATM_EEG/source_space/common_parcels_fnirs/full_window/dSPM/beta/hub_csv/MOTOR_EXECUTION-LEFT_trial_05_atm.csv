@@ -1,0 +1,9 @@
+,frontalpole-lh,frontalpole-rh,insula-lh,lateralorbitofrontal-rh,medialorbitofrontal-rh,rostralanteriorcingulate-lh,rostralanteriorcingulate-rh,temporalpole-lh
+frontalpole-lh,0.8198198198198198,0.13513513513513514,0.0,0.0,0.0,0.009009009009009009,0.036036036036036036,0.0
+frontalpole-rh,0.37254901960784315,0.5490196078431373,0.0,0.0,0.0,0.0,0.0784313725490196,0.0
+insula-lh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+lateralorbitofrontal-rh,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0
+medialorbitofrontal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+rostralanteriorcingulate-lh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+rostralanteriorcingulate-rh,0.17142857142857143,0.05714285714285714,0.0,0.0,0.0,0.0,0.7714285714285715,0.0
+temporalpole-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
