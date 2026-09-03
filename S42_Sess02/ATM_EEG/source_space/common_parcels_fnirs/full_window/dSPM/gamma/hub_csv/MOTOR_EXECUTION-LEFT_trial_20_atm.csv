@@ -1,0 +1,9 @@
+,entorhinal-rh,fusiform-rh,inferiortemporal-rh,insula-rh,lateralorbitofrontal-rh,parahippocampal-rh,temporalpole-rh,transversetemporal-rh
+entorhinal-rh,0.9166666666666666,0.0,0.0,0.0,0.0,0.0,0.08333333333333333,0.0
+fusiform-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+inferiortemporal-rh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+insula-rh,0.0,0.0,0.11764705882352941,0.47058823529411764,0.0,0.0,0.058823529411764705,0.35294117647058826
+lateralorbitofrontal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+temporalpole-rh,0.0,0.0,0.0,0.11538461538461539,0.0,0.0,0.6153846153846154,0.2692307692307692
+transversetemporal-rh,0.0,0.0,0.03225806451612903,0.3225806451612903,0.0,0.0,0.16129032258064516,0.4838709677419355
