@@ -1,0 +1,9 @@
+,entorhinal-lh,entorhinal-rh,frontalpole-lh,lateralorbitofrontal-lh,parsorbitalis-lh,temporalpole-lh,temporalpole-rh,transversetemporal-rh
+entorhinal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+entorhinal-rh,0.0,0.75,0.0,0.0,0.0,0.0,0.0,0.25
+frontalpole-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lateralorbitofrontal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parsorbitalis-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+temporalpole-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+transversetemporal-rh,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.6
