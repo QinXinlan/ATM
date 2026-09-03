@@ -1,0 +1,9 @@
+,bankssts-lh,frontalpole-lh,frontalpole-rh,fusiform-lh,inferiortemporal-lh,parahippocampal-lh,parahippocampal-rh,parsorbitalis-lh
+bankssts-lh,0.8026315789473685,0.14473684210526316,0.0,0.0,0.0,0.05263157894736842,0.0,0.0
+frontalpole-lh,0.3793103448275862,0.6206896551724138,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+fusiform-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+inferiortemporal-lh,0.0,0.0,0.0,0.0,0.9375,0.0625,0.0,0.0
+parahippocampal-lh,0.04878048780487805,0.0,0.0,0.0,0.0975609756097561,0.8536585365853658,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+parsorbitalis-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
