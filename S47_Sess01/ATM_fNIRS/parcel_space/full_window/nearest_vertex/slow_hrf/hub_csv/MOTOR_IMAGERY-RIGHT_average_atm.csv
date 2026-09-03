@@ -1,0 +1,9 @@
+,caudalmiddlefrontal-lh,caudalmiddlefrontal-rh,inferiorparietal-rh,parstriangularis-rh,rostralmiddlefrontal-rh,superiorfrontal-rh,superiorparietal-rh,superiortemporal-rh
+caudalmiddlefrontal-lh,0.5,0.0,0.0625,0.0,0.0,0.0,0.0,0.4375
+caudalmiddlefrontal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0
+inferiorparietal-rh,0.0,0.0,0.896551724137931,0.10344827586206896,0.0,0.0,0.0,0.0
+parstriangularis-rh,0.0,0.0,0.05172413793103448,0.6379310344827587,0.3103448275862069,0.0,0.0,0.0
+rostralmiddlefrontal-rh,0.0,0.0,0.0,0.3404255319148936,0.6595744680851063,0.0,0.0,0.0
+superiorfrontal-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+superiorparietal-rh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+superiortemporal-rh,0.1935483870967742,0.0,0.0,0.0,0.0,0.0,0.0,0.8064516129032258
