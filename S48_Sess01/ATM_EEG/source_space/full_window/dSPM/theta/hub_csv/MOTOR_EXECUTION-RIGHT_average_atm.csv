@@ -1,0 +1,9 @@
+,frontalpole-rh,inferiorparietal-lh,lateraloccipital-lh,lateraloccipital-rh,medialorbitofrontal-lh,parahippocampal-rh,pericalcarine-lh,temporalpole-rh
+frontalpole-rh,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+inferiorparietal-lh,0.0,0.8586956521739131,0.14130434782608695,0.0,0.0,0.0,0.0,0.0
+lateraloccipital-lh,0.0,0.19791666666666666,0.8020833333333334,0.0,0.0,0.0,0.0,0.0
+lateraloccipital-rh,0.0,0.0,0.0,0.7068965517241379,0.0,0.0,0.29310344827586204,0.0
+medialorbitofrontal-lh,0.03225806451612903,0.0,0.0,0.0,0.967741935483871,0.0,0.0,0.0
+parahippocampal-rh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+pericalcarine-lh,0.0,0.0,0.0,0.3486238532110092,0.0,0.0,0.6513761467889908,0.0
+temporalpole-rh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0

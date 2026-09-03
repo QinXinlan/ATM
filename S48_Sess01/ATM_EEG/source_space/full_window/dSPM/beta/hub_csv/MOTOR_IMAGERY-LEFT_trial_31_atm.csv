@@ -1,0 +1,9 @@
+,bankssts-lh,frontalpole-lh,frontalpole-rh,inferiorparietal-lh,lateraloccipital-lh,lateraloccipital-rh,medialorbitofrontal-lh,pericalcarine-lh
+bankssts-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-lh,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0
+frontalpole-rh,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0
+inferiorparietal-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lateraloccipital-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+lateraloccipital-rh,0.0,0.0,0.0,0.0,0.0,1.0,0.0,0.0
+medialorbitofrontal-lh,0.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0
+pericalcarine-lh,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
